@@ -10,23 +10,23 @@ Below is the schedule for the next 3 weeks:
 
 |Week|Date|Time|Teams|Field|
 |---|---|---|---|---|
-|1|5/na/2018|6:30 PM|1v2v3|Bryn Mawr #11|
-|1|5/na/2018|7:30 PM|4v5v6|Bryn Mawr #11|
-|2|5/na/2018|6:30 PM|1v2v4|Bryn Mawr #11|
-|2|5/na/2018|7:30 PM|3v5v6|Bryn Mawr #11|
-|3|5/na/2018|6:30 PM|1v2v5|Bryn Mawr #11|
-|3|5/na/2018|7:30 PM|3v4v6|Bryn Mawr #11|
+|1|5/21/2018|6:30 PM|1v2v3|Bryn Mawr #11|
+|1|5/21/2018|7:30 PM|4v5v6|Bryn Mawr #11|
+|2|5/28/2018|6:30 PM|1v2v4|Bryn Mawr #11|
+|2|5/28/2018|7:30 PM|3v5v6|Bryn Mawr #11|
+|3|6/4/2018|6:30 PM|1v2v5|Bryn Mawr #11|
+|3|6/4/2018|7:30 PM|3v4v6|Bryn Mawr #11|
 
 # Standings
 
 |Place|Team Name|Points|W (5pts)|2nd (3pts)|L (1pt)|
 |---|---|---|---|---|---|
-|1|n/a|n/a|n/a|n/a|n/a|
-|2|n/a|n/a|n/a|n/a|n/a|
-|3|n/a|n/a|n/a|n/a|n/a|
-|4|Jammie Dodgers|n/a|n/a|n/a|n/a|
-|5|n/a|n/a|n/a|n/a|n/a|
-|6|n/a|n/a|n/a|n/a|n/a|
+|1|n/a|0|0|0|0|
+|2|n/a|0|0|0|0|
+|3|n/a|0|0|0|0|
+|4|Jammie Dodgers|0|0|0|0|
+|5|n/a|0|0|0|0|
+|6|n/a|0|0|0|0|
 
 # Rosters
 
@@ -49,16 +49,16 @@ These are the top 10 players, sorted by batting order! Please contact me for you
 
 |Name|AB|H|BA|HR|SO|R|
 |---|---|---|---|---|---|---|
-|n/a|n/a|n/a|n/a|n/a|n/a|n/a|
-|n/a|n/a|n/a|n/a|n/a|n/a|n/a|
-|n/a|n/a|n/a|n/a|n/a|n/a|n/a|
-|n/a|n/a|n/a|n/a|n/a|n/a|n/a|
-|n/a|n/a|n/a|n/a|n/a|n/a|n/a|
-|n/a|n/a|n/a|n/a|n/a|n/a|n/a|
-|n/a|n/a|n/a|n/a|n/a|n/a|n/a|
-|n/a|n/a|n/a|n/a|n/a|n/a|n/a|
-|n/a|n/a|n/a|n/a|n/a|n/a|n/a|
-|n/a|n/a|n/a|n/a|n/a|n/a|n/a|
+|n/a|0|0|0|0|0|0|
+|n/a|0|0|0|0|0|0|
+|n/a|0|0|0|0|0|0|
+|n/a|0|0|0|0|0|0|
+|n/a|0|0|0|0|0|0|
+|n/a|0|0|0|0|0|0|
+|n/a|0|0|0|0|0|0|
+|n/a|0|0|0|0|0|0|
+|n/a|0|0|0|0|0|0|
+|n/a|0|0|0|0|0|0|
 
 # Potential Subs
 
