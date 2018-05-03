@@ -6,16 +6,18 @@ If you are new to 5v5v5 softball, please review the rules [here](https://static.
 
 # Schedule
 
-Below is the schedule for the next 3 weeks:
+Below is the schedule for the next 4 weeks:
 
 |Week|Date|Time|Teams|Field|
 |---|---|---|---|---|
 |1|5/21/2018|6:30 PM|1v2v3|Bryn Mawr #11|
-|1|5/21/2018|7:30 PM|4v5v6|Bryn Mawr #11|
+||5/21/2018|7:30 PM|4v5v6|Bryn Mawr #11|
 |2|5/28/2018|6:30 PM|1v2v4|Bryn Mawr #11|
-|2|5/28/2018|7:30 PM|3v5v6|Bryn Mawr #11|
+||5/28/2018|7:30 PM|3v5v6|Bryn Mawr #11|
 |3|6/4/2018|6:30 PM|1v2v5|Bryn Mawr #11|
-|3|6/4/2018|7:30 PM|3v4v6|Bryn Mawr #11|
+||6/4/2018|7:30 PM|3v4v6|Bryn Mawr #11|
+|4|6/11/2018|6:30 PM|1v2v5|Bryn Mawr #11|
+||6/11/2018|7:30 PM|3v4v6|Bryn Mawr #11|
 
 # Standings
 
