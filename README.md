@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Summer Softball!
 
-You can use the [editor on GitHub](https://github.com/jordanmcgowan/softball/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This site will be the official source of truth for all things scheduling related for the summer softball league. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you are new to 5v5v5 softball, please review the rules [here](https://static.spokanecity.org/documents/recreation/sports/tournaments/2017/softball-5v5v5-rules-2017.pdf). The only difference we will have from these rules is that one team will play the left side of the field (L, LC, 3B, SS, and C) and one team will play the right side (R, RC, 1B, 2B, and P). This will *hopefully* force more team interaction. 
 
 ### Markdown
 
@@ -10,7 +10,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-
 # Header 1
 ## Header 2
 ### Header 3
