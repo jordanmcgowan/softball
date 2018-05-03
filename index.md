@@ -22,6 +22,7 @@ Below is the schedule for the next 3 weeks:
 Below are the team rosters, with the captains name in **bold**
 
 |Team 1|Team 2|Team 3|Jammmie Dodgers|Team 5|Team 6|
+|---|---|---|---|---|---|
 |**Kurt Poquette**|**Emeka Ezeji-Okoye**|**Jordan McGowan**|**Dom Smith**|**Haylie Helmold**|**Alex Foster**|
 |Daniel Alexander Byland|Kareem Itani|Derek Vander Vorste|Theryn Groetken|Mitchell Fossen|Tarah Cleveland|
 |YA BOI EDBOI|Andrea Schleicher|Rebecca Mozdy|Molly Servatius Smith|Alexander Glowacki|Clay Beyers|
