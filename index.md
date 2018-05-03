@@ -19,7 +19,17 @@ Below is the schedule for the next 3 weeks:
 
 ### Roster
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jordanmcgowan/softball/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Below are the team rosters, with the captains name in **bold**
+
+|Team 1|Team 2|Team 3|Jammmie Dodgers|Team 5|Team 6|
+|**Kurt Poquette**|**Emeka Ezeji-Okoye**|**Jordan McGowan**|**Dom Smith**|**Haylie Helmold**|**Alex Foster**|
+|Daniel Alexander Byland|Kareem Itani|Derek Vander Vorste|Theryn Groetken|Mitchell Fossen|Tarah Cleveland|
+|YA BOI EDBOI|Andrea Schleicher|Rebecca Mozdy|Molly Servatius Smith|Alexander Glowacki|Clay Beyers|
+|Mitch Vostrez|Wilson Ngai|Joshua Varghese|Parker Lewis|Mithul Garg|Matthew Romero Moore|
+|Kiera Byland|Krista Dotzenrod|Rory Straubel|Maggie Connell|Karthik Bokka|Rex Raetz|
+|Kyler Witting|Nate Drews|Riley LaTour|McKenzie Groetken|Ryan Huber|Mike Wold|
+|Dean Chenensky|Jimmy Xiong|Vivek Kuppamala|Rom Hunter|Miranda Motsinger|Brady Fish|
+|Julia Bindler| |John Kelly Russ| | |Erin Hanson|
 
 ### Stats
 
