@@ -34,7 +34,7 @@ Below is the schedule for the next 4 weeks:
 
 # Rosters
 
-Below are the team rosters, with the captains name in *italics*. Players should be responsible for finding a sub if they cannot make it to a game, but ultimately that responsibility will fall on the captians to ensure they can field a team!
+Below are the team rosters, with the captains name in ***bold and italics***. Players should be responsible for finding a sub if they cannot make it to a game, but ultimately that responsibility will fall on the captians to ensure they can field a team!
 
 |Team 1|Team 2|Team 3|Jammmie Dodgers|Team 5|Team 6|
 |---|---|---|---|---|---|
