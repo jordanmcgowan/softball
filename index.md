@@ -10,12 +10,12 @@ Below is the schedule for the next 3 weeks:
 
 |Week|Date|Time|Teams|Field|
 |---|---|---|---|---|
-|1|5/17/2018|6:00 PM|1v2v3|Bryn Mawr #11|
-|1|5/17/2018|7:00 PM|4v5v6|Bryn Mawr #11|
-|2|5/24/2018|6:00 PM|1v2v4|Bryn Mawr #11|
-|2|5/24/2018|7:00 PM|3v5v6|Bryn Mawr #11|
-|3|5/31/2018|6:00 PM|1v2v5|Bryn Mawr #11|
-|3|5/31/2018|7:00 PM|3v4v6|Bryn Mawr #11|
+|1|5/na/2018|6:30 PM|1v2v3|Bryn Mawr #11|
+|1|5/na/2018|7:30 PM|4v5v6|Bryn Mawr #11|
+|2|5/na/2018|6:30 PM|1v2v4|Bryn Mawr #11|
+|2|5/na/2018|7:30 PM|3v5v6|Bryn Mawr #11|
+|3|5/na/2018|6:30 PM|1v2v5|Bryn Mawr #11|
+|3|5/na/2018|7:30 PM|3v4v6|Bryn Mawr #11|
 
 # Standings
 
@@ -59,3 +59,10 @@ These are the top 10 players, sorted by batting order! Please contact me for you
 |n/a|n/a|n/a|n/a|n/a|n/a|n/a|
 |n/a|n/a|n/a|n/a|n/a|n/a|n/a|
 |n/a|n/a|n/a|n/a|n/a|n/a|n/a|
+
+#Potential Subs
+
+If your team is short a player, there are a number of people who have volunteered to be subs for this league! They are listed below. 
+
+|Name|Phone Number|
+|---|---|
