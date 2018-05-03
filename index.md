@@ -4,6 +4,8 @@ This site will be the official source of truth for all things scheduling related
 
 If you are new to 5v5v5 softball, please review the rules [here](https://static.spokanecity.org/documents/recreation/sports/tournaments/2017/softball-5v5v5-rules-2017.pdf). The only difference we will have from these rules is that one team will play the left side of the field (L, LC, 3B, SS, and C) and one team will play the right side (R, RC, 1B, 2B, and P). This will *hopefully* force more team interaction. 
 
+The first team listed in the matchup will bat **first**, the second team will take the RIGHT side of the field, and the last team the LEFT side. The teams will then rotate clockwise for 5 innings (time capped at 1 hour). Any ties and the two teams will both be awarded the points of the lower position.
+
 # Schedule
 
 Below is the schedule for the next 4 weeks:
@@ -70,4 +72,4 @@ If your team is short a player, there are a number of people who have volunteere
 |---|---|
 |Rilee Krier|720.281.3289|
 |Derek Price|619.607.0474|
-|Jordikai Watanabe-Inouye|n/a|
+|Jordikai Watanabe-Inouye|808.203.4872|
