@@ -60,9 +60,12 @@ These are the top 10 players, sorted by batting order! Please contact me for you
 |n/a|n/a|n/a|n/a|n/a|n/a|n/a|
 |n/a|n/a|n/a|n/a|n/a|n/a|n/a|
 
-#Potential Subs
+# Potential Subs
 
 If your team is short a player, there are a number of people who have volunteered to be subs for this league! They are listed below. 
 
 |Name|Phone Number|
 |---|---|
+|Rilee Krier|720.281.3289|
+|Derek Price|619.607.0474|
+|Jordikai Watanabe-Inouye|n/a|
