@@ -8,7 +8,7 @@ The first team listed in the matchup will bat **first**, the second team will ta
 
 # Schedule
 
-Below is the schedule for the next 4 weeks:
+Below is the schedule for the next 4 weeks. Games will be every Monday at 6:30 and 7:30pm at Bryn Mawr field #11.
 
 |Week|Date|Time|Teams|Field|
 |---|---|---|---|---|
