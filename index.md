@@ -4,7 +4,9 @@ This site will be the official source of truth for all things scheduling related
 
 If you are new to 5v5v5 softball, please review the rules [here](https://static.spokanecity.org/documents/recreation/sports/tournaments/2017/softball-5v5v5-rules-2017.pdf). The only difference we will have from these rules is that one team will play the left side of the field (L, LC, 3B, SS, and C) and one team will play the right side (R, RC, 1B, 2B, and P). This will *hopefully* force more team interaction. 
 
-The first team listed in the matchup will bat **first**, the second team will take the RIGHT side of the field, and the last team the LEFT side. The teams will then rotate clockwise for 5 innings (time capped at 1 hour). Any ties and the two teams will both be awarded the points of the lower position.
+The first team listed in the matchup will bat **first**, the second team will take the RIGHT side of the field, and the last team the LEFT side. The teams will then rotate clockwise for 5 innings (time capped at 1 and 30 minutes). Any ties and the two teams will both be awarded the points of the lower position.
+
+*NOTE: If players would like to continue playing after the league games are over, whoever would like can stick around for a pick up game immediately following the league game.*
 
 # Schedule
 
@@ -34,7 +36,7 @@ Below is the schedule for the next 4 weeks. Games will be every Monday at 6:30 a
 
 # Rosters
 
-Below are the team rosters, with the captains name in ***bold and italics***. Players should be responsible for finding a sub if they cannot make it to a game, but ultimately that responsibility will fall on the captians to ensure they can field a team!
+Below are the team rosters, with the captain's name in ***bold and italics***. Players should be responsible for finding a sub if they cannot make it to a game, but ultimately that responsibility will fall on the captains to ensure they can field a team!
 
 |Team 1|Team 2|Team 3|Jammmie Dodgers|Team 5|Team 6|
 |---|---|---|---|---|---|
