@@ -10,18 +10,18 @@ The first team listed in the matchup will bat **first**, the second team will ta
 
 # Schedule
 
-Below is the schedule for the next 4 weeks. Games will be every Monday at 6:30 and 7:30pm at Bryn Mawr field #11.
+Below is the schedule for the next 4 weeks. Games will be every Monday at 6:30 Bryn Mawr field #10 and #11 (*Field subject to change based on availability*).
 
 |Week|Date|Time|Teams|Field|
 |---|---|---|---|---|
-|1|5/21/2018|6:30 PM|1v2v3|Bryn Mawr #11|
-||5/21/2018|7:30 PM|4v5v6|Bryn Mawr #11|
-|2|5/28/2018|6:30 PM|1v2v4|Bryn Mawr #11|
-||5/28/2018|7:30 PM|3v5v6|Bryn Mawr #11|
-|3|6/4/2018|6:30 PM|1v2v5|Bryn Mawr #11|
-||6/4/2018|7:30 PM|3v4v6|Bryn Mawr #11|
-|4|6/11/2018|6:30 PM|1v2v5|Bryn Mawr #11|
-||6/11/2018|7:30 PM|3v4v6|Bryn Mawr #11|
+|1|5/21/2018|6:30 PM|1v2v3|Bryn Mawr #10|
+||5/21/2018|6:30 PM|4v5v6|Bryn Mawr #11|
+|2|5/28/2018|6:30 PM|1v2v4|Bryn Mawr #10|
+||5/28/2018|6:30 PM|3v5v6|Bryn Mawr #11|
+|3|6/4/2018|6:30 PM|1v2v5|Bryn Mawr #10|
+||6/4/2018|6:30 PM|3v4v6|Bryn Mawr #11|
+|4|6/11/2018|6:30 PM|1v2v5|Bryn Mawr #10|
+||6/11/2018|6:30 PM|3v4v6|Bryn Mawr #11|
 
 # Standings
 
