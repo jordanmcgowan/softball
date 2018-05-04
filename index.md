@@ -72,6 +72,7 @@ If your team is short a player, there are a number of people who have volunteere
 
 |Name|Phone Number|
 |---|---|
+|Lucas Capistrant|763.647.8307|
 |Rilee Krier|720.281.3289|
 |Derek Price|619.607.0474|
 |Jordikai Watanabe-Inouye|808.203.4872|
