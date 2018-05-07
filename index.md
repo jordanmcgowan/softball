@@ -75,5 +75,6 @@ If your team is short a player, there are a number of people who have volunteere
 |Lucas Capistrant|763.647.8307|
 |Francis Hertel|651.339.3767|
 |Jordikai Watanabe-Inouye|808.203.4872|
+|Patrick Erichson|952.807.6528|
 |Rilee Krier|720.281.3289|
 |Derek Price|619.607.0474|
