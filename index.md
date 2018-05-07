@@ -14,14 +14,14 @@ Below is the schedule for the next 4 weeks. Games will be every Monday at 6:30 B
 
 |Week|Date|Time|Teams|Field|
 |---|---|---|---|---|
-|1|5/21/2018|6:30 PM|1v2v3|Bryn Mawr #10|
-||5/21/2018|6:30 PM|4v5v6|Bryn Mawr #11|
-|2|5/28/2018|6:30 PM|1v2v4|Bryn Mawr #10|
-||5/28/2018|6:30 PM|3v5v6|Bryn Mawr #11|
+|1|5/21/2018|6:30 PM|1v2v Josh's Hot Sauce Enema|Bryn Mawr #10|
+||5/21/2018|6:30 PM|Jammmie Dodgers v5v6|Bryn Mawr #11|
+|2|5/28/2018|6:30 PM|1v2v Jammmie Dodgers|Bryn Mawr #10|
+||5/28/2018|6:30 PM|Josh's Hot Sauce Enema v5v6|Bryn Mawr #11|
 |3|6/4/2018|6:30 PM|1v2v5|Bryn Mawr #10|
-||6/4/2018|6:30 PM|3v4v6|Bryn Mawr #11|
-|4|6/11/2018|6:30 PM|1v2v5|Bryn Mawr #10|
-||6/11/2018|6:30 PM|3v4v6|Bryn Mawr #11|
+||6/4/2018|6:30 PM|Josh's Hot Sauce Enema v Jammmie Dodgers v6|Bryn Mawr #11|
+|4|6/11/2018|6:30 PM|1v2v6|Bryn Mawr #10|
+||6/11/2018|6:30 PM|Josh's Hot Sauce Enema v Jammmie Dodgers v5|Bryn Mawr #11|
 
 # Standings
 
@@ -29,7 +29,7 @@ Below is the schedule for the next 4 weeks. Games will be every Monday at 6:30 B
 |---|---|---|---|---|---|
 |1|n/a|0|0|0|0|
 |2|n/a|0|0|0|0|
-|3|n/a|0|0|0|0|
+|3|Josh's Hot Sauce Enema|0|0|0|0|
 |4|Jammie Dodgers|0|0|0|0|
 |5|n/a|0|0|0|0|
 |6|n/a|0|0|0|0|
@@ -38,7 +38,7 @@ Below is the schedule for the next 4 weeks. Games will be every Monday at 6:30 B
 
 Below are the team rosters, with the captain's name in ***bold and italics***. Players should be responsible for finding a sub if they cannot make it to a game, but ultimately that responsibility will fall on the captains to ensure they can field a team!
 
-|Team 1|Team 2|Team 3|Jammmie Dodgers|Team 5|Team 6|
+|Team 1|Team 2|Josh's Hot Sauce Enema|Jammmie Dodgers|Team 5|Team 6|
 |---|---|---|---|---|---|
 |***Kurt Poquette***|***Emeka Ezeji-Okoye***|***Jordan McGowan***|***Dom Smith***|***Haylie Helmold***|***Alex Foster***|
 |Daniel Alexander Byland|Kareem Itani|Derek Vander Vorste|Theryn Groetken|Mitchell Fossen|Tarah Cleveland|
