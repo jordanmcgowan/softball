@@ -10,18 +10,18 @@ The first team listed in the matchup will bat **first**, the second team will ta
 
 # Schedule
 
-Below is the schedule for the next 4 weeks. Games will be every Monday at 6:30 Bryn Mawr field #10 and #11 (*Field subject to change based on availability*).
+Below is the schedule for the next 4 weeks. Games will be every Monday at 6:30 Kenwood #1 and #2 (*Field subject to change based on availability*).
 
 |Week|Date|Time|Teams|Field|
 |---|---|---|---|---|
-|1|5/21/2018|6:30 PM|***yes*** v ***Buck Wilder*** v ***Josh's Hot Sauce Enema***|Bryn Mawr #10|
-||5/21/2018|6:30 PM|***Jammmie Dodgers*** v ***Weekend Wildlings*** v ***Little League Juicers***|Bryn Mawr #11|
-|2|5/28/2018|6:30 PM|***yes*** v ***Buck Wilder*** v ***Jammmie Dodgers***|Bryn Mawr #10|
-||5/28/2018|6:30 PM|***Josh's Hot Sauce Enema*** v ***Weekend Wildlings*** v ***Little League Juicers***|Bryn Mawr #11|
-|3|6/4/2018|6:30 PM|***yes*** v ***Buck Wilder*** v ***Weekend Wildlings***|Bryn Mawr #10|
-||6/4/2018|6:30 PM|***Josh's Hot Sauce Enema*** v ***Jammmie Dodgers*** v ***Little League Juicers***|Bryn Mawr #11|
-|4|6/11/2018|6:30 PM|***yes*** v ***Buck Wilder*** v ***Little League Juicers***|Bryn Mawr #10|
-||6/11/2018|6:30 PM|***Josh's Hot Sauce Enema*** v ***Jammmie Dodgers*** v ***Weekend Wildlings***|Bryn Mawr #11|
+|1|5/21/2018|6:30 PM|***yes*** v ***Buck Wilder*** v ***Josh's Hot Sauce Enema***|Kenwood #1|
+||5/21/2018|6:30 PM|***Jammmie Dodgers*** v ***Weekend Wildlings*** v ***Little League Juicers***|Kenwood #2|
+|2|5/28/2018|6:30 PM|***yes*** v ***Buck Wilder*** v ***Jammmie Dodgers***|Kenwood #1|
+||5/28/2018|6:30 PM|***Josh's Hot Sauce Enema*** v ***Weekend Wildlings*** v ***Little League Juicers***|Kenwood #2|
+|3|6/4/2018|6:30 PM|***yes*** v ***Buck Wilder*** v ***Weekend Wildlings***|Kenwood #1|
+||6/4/2018|6:30 PM|***Josh's Hot Sauce Enema*** v ***Jammmie Dodgers*** v ***Little League Juicers***|Kenwood #2|
+|4|6/11/2018|6:30 PM|***yes*** v ***Buck Wilder*** v ***Little League Juicers***|Kenwood #1|
+||6/11/2018|6:30 PM|***Josh's Hot Sauce Enema*** v ***Jammmie Dodgers*** v ***Weekend Wildlings***|Kenwood #2|
 
 # Standings
 
