@@ -17,12 +17,12 @@ Below is the schedule for the next 4 weeks. Games will be every Monday at 6:30 K
 |Week|Date|Time|Teams|Field|
 |---|---|---|---|---|
 |1|5/21/2018|6:30 PM|***yes*** v ***Buck Wilder*** v ***Josh's Hot Sauce Enema***|Kenwood #1|
-||5/21/2018|6:30 PM|***Jammmie Dodgers*** v ***Weekend Wildlings*** v ***Little League Juicers***|Kenwood #2|
+||5/21/2018|6:30 PM|***Jammmie Dodgers*** v ***Weekend Wildlings*** v ***Foster Children***|Kenwood #2|
 |2|6/4/2018|6:30 PM|***yes*** v ***Buck Wilder*** v ***Jammmie Dodgers***|Kenwood #1|
-||6/4/2018|6:30 PM|***Josh's Hot Sauce Enema*** v ***Weekend Wildlings*** v ***Little League Juicers***|Kenwood #2|
+||6/4/2018|6:30 PM|***Josh's Hot Sauce Enema*** v ***Weekend Wildlings*** v ***Foster Children***|Kenwood #2|
 |3|6/11/2018|6:30 PM|***yes*** v ***Buck Wilder*** v ***Weekend Wildlings***|Kenwood #1|
-||6/11/2018|6:30 PM|***Josh's Hot Sauce Enema*** v ***Jammmie Dodgers*** v ***Little League Juicers***|Kenwood #2|
-|4|6/18/2018|6:30 PM|***yes*** v ***Buck Wilder*** v ***Little League Juicers***|Kenwood #1|
+||6/11/2018|6:30 PM|***Josh's Hot Sauce Enema*** v ***Jammmie Dodgers*** v ***Foster Children***|Kenwood #2|
+|4|6/18/2018|6:30 PM|***yes*** v ***Buck Wilder*** v ***Foster Children***|Kenwood #1|
 ||6/18/2018|6:30 PM|***Josh's Hot Sauce Enema*** v ***Jammmie Dodgers*** v ***Weekend Wildlings***|Kenwood #2|
 
 # Standings
@@ -34,13 +34,13 @@ Below is the schedule for the next 4 weeks. Games will be every Monday at 6:30 K
 |3|Josh's Hot Sauce Enema|0|0|0|0|
 |4|Jammie Dodgers|0|0|0|0|
 |5|Weekend Wildlings|0|0|0|0|
-|6|Little League Juicers|0|0|0|0|
+|6|Foster Children|0|0|0|0|
 
 # Rosters
 
 Below are the team rosters, with the captain's name in ***bold and italics***. Players should be responsible for finding a sub if they cannot make it to a game, but ultimately that responsibility will fall on the captains to ensure they can field a team!
 
-|yes|Buck Wilder|Josh's Hot Sauce Enema|Jammmie Dodgers|Weekend Wildlings|Little League Juicers|
+|yes|Buck Wilder|Josh's Hot Sauce Enema|Jammmie Dodgers|Weekend Wildlings|Foster Children|
 |---|---|---|---|---|---|
 |***Kurt Poquette***|***Emeka Ezeji-Okoye***|***Jordan McGowan***|***Dom Smith***|***Haylie Helmold***|***Alex Foster***|
 |Daniel Alexander Byland|Kareem Itani|Derek Vander Vorste|Theryn Groetken|Mitchell Fossen|Tarah Cleveland|
