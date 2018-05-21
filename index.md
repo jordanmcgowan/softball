@@ -16,14 +16,14 @@ Below is the schedule for the next 4 weeks. Games will be every Monday at 6:30 K
 
 |Week|Date|Time|Teams|Field|
 |---|---|---|---|---|
-|1|5/21/2018|6:30 PM|***yes*** v ***Buck Wilder*** v ***Josh's Hot Sauce Enema***|Kenwood #1|
-||5/21/2018|6:30 PM|***Jammmie Dodgers*** v ***Weekend Wildlings*** v ***Foster Children***|Kenwood #2|
-|2|6/4/2018|6:30 PM|***yes*** v ***Buck Wilder*** v ***Jammmie Dodgers***|Kenwood #1|
-||6/4/2018|6:30 PM|***Josh's Hot Sauce Enema*** v ***Weekend Wildlings*** v ***Foster Children***|Kenwood #2|
-|3|6/11/2018|6:30 PM|***yes*** v ***Buck Wilder*** v ***Weekend Wildlings***|Kenwood #1|
-||6/11/2018|6:30 PM|***Josh's Hot Sauce Enema*** v ***Jammmie Dodgers*** v ***Foster Children***|Kenwood #2|
-|4|6/18/2018|6:30 PM|***yes*** v ***Buck Wilder*** v ***Foster Children***|Kenwood #1|
-||6/18/2018|6:30 PM|***Josh's Hot Sauce Enema*** v ***Jammmie Dodgers*** v ***Weekend Wildlings***|Kenwood #2|
+|1|5/21/2018|6:30 PM|***yes*** v ***Buck Wilder*** v ***Josh's Hot Sauce Enema***|Bryn Mawr #4|
+||5/21/2018|6:30 PM|***Jammmie Dodgers*** v ***Weekend Wildlings*** v ***Foster Children***|Bryn Mawr #5|
+|2|6/4/2018|6:30 PM|***yes*** v ***Buck Wilder*** v ***Jammmie Dodgers***|Bryn Mawr #4|
+||6/4/2018|6:30 PM|***Josh's Hot Sauce Enema*** v ***Weekend Wildlings*** v ***Foster Children***|Bryn Mawr #5|
+|3|6/11/2018|6:30 PM|***yes*** v ***Buck Wilder*** v ***Weekend Wildlings***|Bryn Mawr #4|
+||6/11/2018|6:30 PM|***Josh's Hot Sauce Enema*** v ***Jammmie Dodgers*** v ***Foster Children***|Bryn Mawr #5|
+|4|6/18/2018|6:30 PM|***yes*** v ***Buck Wilder*** v ***Foster Children***|Bryn Mawr #4|
+||6/18/2018|6:30 PM|***Josh's Hot Sauce Enema*** v ***Jammmie Dodgers*** v ***Weekend Wildlings***|Bryn Mawr #5|
 
 # Standings
 
