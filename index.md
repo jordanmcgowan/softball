@@ -27,14 +27,14 @@ Below is the schedule for the next 4 weeks. Games will be every Monday at 6:30 K
 
 # Standings
 
-|Place|Team Name|Points|W (5pts)|2nd (3pts)|L (1pt)|
+|Place|Team Name|Points|W (5pts)|2nd (3pts)|L (1pt)|Runs|
 |---|---|---|---|---|---|
-|1|yes|0|0|0|0|
-|2|Buck Wilder|0|0|0|0|
-|3|Josh's Hot Sauce Enema|0|0|0|0|
-|4|Jammie Dodgers|0|0|0|0|
-|5|Weekend Wildlings|0|0|0|0|
-|6|Foster Children|0|0|0|0|
+|1|Foster Children|5|1|0|0|27|
+|1|Josh's Hot Sauce Enema|5|1|0|0|20|
+|3|Jammie Dodgers|3|0|1|0|8|
+|3|Buck Wilder|3|0|1|0|7|
+|5|yes|1|0|0|1|5|
+|5|Weekend Wildlings|1|0|0|1|5|
 
 # Rosters
 
