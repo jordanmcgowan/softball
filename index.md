@@ -53,20 +53,20 @@ Below are the team rosters, with the captain's name in ***bold and italics***. P
 
 # Stats
 
-These are the top 10 players, sorted by batting order! Please contact me for your personal stats, or with any discrepencies
+These are the top 10 players, sorted by batting average (min 3AB)! Please contact me for your personal stats, or with any discrepencies
 
 |Name|AB|H|BA|HR|SO|R|
 |---|---|---|---|---|---|---|
-|n/a|0|0|0|0|0|0|
-|n/a|0|0|0|0|0|0|
-|n/a|0|0|0|0|0|0|
-|n/a|0|0|0|0|0|0|
-|n/a|0|0|0|0|0|0|
-|n/a|0|0|0|0|0|0|
-|n/a|0|0|0|0|0|0|
-|n/a|0|0|0|0|0|0|
-|n/a|0|0|0|0|0|0|
-|n/a|0|0|0|0|0|0|
+|Jordan McGowan|7|7|1.000|1|0|5|
+|Kareem Itani|4|4|1.000|1|0|3|
+|Dean Chenensky|4|4|1.000|0|0|1|
+|Steven Lafeir|4|4|1.000|0|0|1|
+|Theryn Groetken|3|3|1.000|0|0|3|
+|Rom Hunter|3|3|1.000|0|0|3|
+|Mitchell Fossen|3|3|1.000|0|0|1|
+|Kyler Witting|3|3|1.000|0|0|1|
+|Tarah Cleveland |8|7|0.875|1|0|7|
+|Mike Wold|8|7|0.875|2|0|7|
 
 # Potential Subs
 
