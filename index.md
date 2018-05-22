@@ -87,6 +87,8 @@ If your team is short a player, there are a number of people who have volunteere
 
 |Week|Date|Time|Teams|Field|
 |---|---|---|---|---|
+|1|5/21/2018|6:30 PM|***yes (3rd)*** v ***BW (2nd)*** v ***JHSE (1st)***|Bryn Mawr #4|
+||5/21/2018|6:30 PM|***JD (2nd)*** v ***WW (3rd)*** v ***FC (1st)***|Bryn Mawr #5|
 |2|6/4/2018|6:30 PM|***yes*** v ***BW*** v ***JD***|Bryn Mawr #4|
 ||6/4/2018|6:30 PM|***JHSE*** v ***WW*** v ***FC***|Bryn Mawr #5|
 |3|6/11/2018|6:30 PM|***yes*** v ***BW*** v ***WW***|Bryn Mawr #4|
