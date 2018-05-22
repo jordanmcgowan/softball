@@ -65,8 +65,8 @@ These are the top 10 players, sorted by batting average (min 3AB)! Please contac
 |Rom Hunter|3|3|1.000|0|0|3|
 |Mitchell Fossen|3|3|1.000|0|0|1|
 |Kyler Witting|3|3|1.000|0|0|1|
-|Tarah Cleveland |7|8|0.875|1|0|7|
 |Mike Wold|7|8|0.875|2|0|7|
+|Tarah Cleveland |7|8|0.875|0|0|7|
 
 # Potential Subs
 
