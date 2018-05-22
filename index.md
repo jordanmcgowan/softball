@@ -55,7 +55,7 @@ Below are the team rosters, with the captain's name in ***bold and italics***. P
 
 These are the top 10 players, sorted by batting average (min 3AB)! Please contact me for your personal stats, or with any discrepencies
 
-|Name|AB|H|BA|HR|SO|R|
+|Name|H|AB|BA|HR|SO|R|
 |---|---|---|---|---|---|---|
 |Jordan McGowan|7|7|1.000|1|0|5|
 |Kareem Itani|4|4|1.000|1|0|3|
@@ -65,8 +65,8 @@ These are the top 10 players, sorted by batting average (min 3AB)! Please contac
 |Rom Hunter|3|3|1.000|0|0|3|
 |Mitchell Fossen|3|3|1.000|0|0|1|
 |Kyler Witting|3|3|1.000|0|0|1|
-|Tarah Cleveland |8|7|0.875|1|0|7|
-|Mike Wold|8|7|0.875|2|0|7|
+|Tarah Cleveland |7|8|0.875|1|0|7|
+|Mike Wold|7|8|0.875|2|0|7|
 
 # Potential Subs
 
