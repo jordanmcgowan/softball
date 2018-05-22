@@ -28,7 +28,7 @@ Below is the schedule for the next 4 weeks. Games will be every Monday at 6:30 K
 # Standings
 
 |Place|Team Name|Points|W (5pts)|2nd (3pts)|L (1pt)|Runs|
-|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 |1|Foster Children|5|1|0|0|27|
 |1|Josh's Hot Sauce Enema|5|1|0|0|20|
 |3|Jammie Dodgers|3|0|1|0|8|
