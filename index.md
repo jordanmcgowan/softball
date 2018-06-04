@@ -10,9 +10,7 @@ The first team listed in the matchup will bat **first**, the second team will ta
 
 # Schedule
 
-Below is the schedule for the next 4 weeks (see below for the full schedule). Games will be every Monday at 6:30 Kenwood #1 and #2 (*Field subject to change based on availability*).
-
-*THERE WILL BE NO GAMES PLAYED MAY 28TH IN OBSERVATION OF MEMORIAL DAY*
+Below is the schedule for the next 4 weeks (see below for the full schedule). Games will be every Monday at 6:30 Bryn Mawr #4 and #5 (*Field subject to change based on availability*).
 
 |Week|Date|Time|Teams|Field|
 |---|---|---|---|---|
