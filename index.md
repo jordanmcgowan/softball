@@ -46,10 +46,10 @@ Below are the team rosters, with the captain's name in ***bold and italics***. P
 |Daniel Alexander Byland|Kareem Itani|Derek Vander Vorste|Theryn Groetken|Mitchell Fossen|Tarah Cleveland|
 |YA BOI EDBOI|Andrea Schleicher|Rebecca Mozdy|Molly Servatius Smith|Alexander Glowacki|Clay Beyers|
 |Mitch Vostrez|Wilson Ngai|Joshua Varghese|Parker Lewis|Mithul Garg|Matthew Romero Moore|
-|Kiera Byland|Krista Dotzenrod|Rory Straubel|Maggie Connell|Karthik Bokka|Rex Raetz|
+|Kiera Byland|Krista Dotzenrod|Rory Straubel|Maggie Connell|Karthik Bokka|Erin Hanson|
 |Kyler Witting|Nate Drews|Riley LaTour|McKenzie Groetken|Ryan Huber|Mike Wold|
 |Dean Chenensky|Jimmy Xiong|Vivek Kuppamala|Rom Hunter|Miranda Motsinger|Brady Fish|
-|Julia Bindler| |John Kelly Russ| | |Erin Hanson|
+|Julia Bindler| |John Kelly Russ| |Rex Raetz||
 
 # Stats
 
