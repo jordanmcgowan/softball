@@ -27,7 +27,7 @@ Below is the schedule for the next 4 weeks (see below for the full schedule). Ga
 
 |Place|Team Name|Points|W (5pts)|2nd (3pts)|L (1pt)|Runs|
 |---|---|---|---|---|---|---|
-|1|Foster Children|10|2|0|0|28|
+|1|Foster Children|10|2|0|0|48|
 |2|Buck Wilder|8|1|1|0|29|
 |3|Josh's Hot Sauce Enema|6|1|0|1|24|
 |4|Weekend Wildlings|4|0|1|1|21|
