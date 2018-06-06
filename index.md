@@ -55,16 +55,16 @@ These are the top 10 players, sorted by batting average (min 3AB)! Please contac
 
 |Name|H|AB|BA|HR|SO|R|
 |---|---|---|---|---|---|---|
-|Jordan McGowan|7|7|1.000|1|0|5|
-|Kareem Itani|4|4|1.000|1|0|3|
-|Dean Chenensky|4|4|1.000|0|0|1|
-|Steven Lafeir|4|4|1.000|0|0|1|
-|Theryn Groetken|3|3|1.000|0|0|3|
-|Rom Hunter|3|3|1.000|0|0|3|
-|Mitchell Fossen|3|3|1.000|0|0|1|
-|Kyler Witting|3|3|1.000|0|0|1|
-|Mike Wold|7|8|0.875|2|0|7|
-|Tarah Cleveland |7|8|0.875|0|0|7|
+|Kareem Itani|12|13|0.923|2|0|7|
+|Tarah Cleveland |12|13|0.923|0|0|10|
+|Steven Lafeir|8|9|0.888|0|0|5|
+|Wilson Ngai|7|8|0.875|0|1|4|
+|Mitchell Fossen|7|8|0.875|1|0|3|
+|Brady Fish|10|12|0.833|1|0|10|
+|Joshua Varghese|7|9|0.777|0|1|4|
+|Mike Wold|10|13|0.769|2|0|8|
+|YA BOI EDBOI|6|8|0.750|1|0|3|
+|Jimmy Xiong|3|4|0.750|0|0|2|
 
 # Potential Subs
 
