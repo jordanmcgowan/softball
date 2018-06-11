@@ -10,6 +10,8 @@ The first team listed in the matchup will bat **first**, the second team will ta
 
 # Schedule
 
+*NOTE*: THE GAMES ON MONDAY JUNE 11TH ARE CANCELLED DUE TO INCLIMATE WEATHER. 
+
 Below is the schedule for the next 4 weeks (see below for the full schedule). Games will be every Monday at 6:30 Bryn Mawr #4 and #5 (*Field subject to change based on availability*).
 
 |Week|Date|Time|Teams|Field|
