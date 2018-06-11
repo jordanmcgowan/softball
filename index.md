@@ -16,8 +16,8 @@ Below is the schedule for the next 4 weeks (see below for the full schedule). Ga
 
 |Week|Date|Time|Teams|Field|
 |---|---|---|---|---|
-|3|6/11/2018|6:30 PM|***yes*** v ***Buck Wilder*** v ***Weekend Wildlings***|Bryn Mawr #4|
-||6/11/2018|6:30 PM|***Josh's Hot Sauce Enema*** v ***Jammmie Dodgers*** v ***Foster Children***|Bryn Mawr #5|
+|~3~|~6/11/2018~|~6:30 PM~|~***yes*** v ***Buck Wilder*** v ***Weekend Wildlings***~|~Bryn Mawr #4~|
+||~6/11/2018~|~6:30 PM~|~***Josh's Hot Sauce Enema*** v ***Jammmie Dodgers*** v ***Foster Children***~|~Bryn Mawr #5~|
 |4|6/18/2018|6:30 PM|***yes*** v ***Buck Wilder*** v ***Foster Children***|Bryn Mawr #4|
 ||6/18/2018|6:30 PM|***Josh's Hot Sauce Enema*** v ***Jammmie Dodgers*** v ***Weekend Wildlings***|Bryn Mawr #5|
 |5|6/25/2018|6:30 PM|***BW*** v ***JHSE*** v ***JD***|Bryn Mawr #4|
