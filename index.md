@@ -16,8 +16,8 @@ Below is the schedule for the next 4 weeks (see below for the full schedule). Ga
 
 |Week|Date|Time|Teams|Field|
 |---|---|---|---|---|
-|3|6/18/2018|6:30 PM|***yes*** v ***Buck Wilder*** v ***Weekend Wildlings***|Bryn Mawr #4|
-||6/18/2018|6:30 PM|***Josh's Hot Sauce Enema*** v ***Jammmie Dodgers*** v ***Foster Children***|Bryn Mawr #5|
+|3|6/18/2018|6:30 PM|***Weekend Wildlings*** v ***Buck Wilder*** v ***yes***|Bryn Mawr #4|
+||6/18/2018|6:30 PM|***Foster Children*** v ***Jammmie Dodgers*** v ***Josh's Hot Sauce Enema***|Bryn Mawr #5|
 |4|6/25/2018|6:30 PM|***yes*** v ***Buck Wilder*** v ***Foster Children***|Bryn Mawr #4|
 ||6/25/2018|6:30 PM|***Josh's Hot Sauce Enema*** v ***Jammmie Dodgers*** v ***Weekend Wildlings***|Bryn Mawr #5|
 |5|7/2/2018|6:30 PM|***BW*** v ***JHSE*** v ***JD***|Bryn Mawr #4|
@@ -82,6 +82,8 @@ If your team is short a player, there are a number of people who have volunteere
 |Rilee Krier|720.281.3289|
 |Derek Price|619.607.0474|
 |Trevor Gentner|630.965.7851|
+|Brooke Luedke|763.377.2702|
+|Samantha Stanke|763.567.9140|
 
 # Full Schedule
 
@@ -91,8 +93,8 @@ If your team is short a player, there are a number of people who have volunteere
 ||5/21/2018|6:30 PM|***JD (2nd)*** v ***WW (3rd)*** v ***FC (1st)***|Bryn Mawr #5|
 |2|6/4/2018|6:30 PM|***yes (2nd)*** v ***BW (1st)*** v ***JD (3rd)***|Bryn Mawr #4|
 ||6/4/2018|6:30 PM|***JHSE (3rd)*** v ***WW (2nd)*** v ***FC (1st)***|Bryn Mawr #5|
-|3|6/18/2018|6:30 PM|***yes*** v ***BW*** v ***WW***|Bryn Mawr #4|
-||6/18/2018|6:30 PM|***JHSE*** v ***JD*** v ***FC***|Bryn Mawr #5|
+|3|6/18/2018|6:30 PM|***WW*** v ***BW*** v ***yes***|Bryn Mawr #4|
+||6/18/2018|6:30 PM|***FC*** v ***JD*** v ***JHSE***|Bryn Mawr #5|
 |4|6/25/2018|6:30 PM|***yes*** v ***BW*** v ***FC***|Bryn Mawr #4|
 ||6/25/2018|6:30 PM|***JHSE*** v ***JD*** v ***WW***|Bryn Mawr #5|
 |5|7/2/2018|6:30 PM|***BW*** v ***JHSE*** v ***JD***|Bryn Mawr #4|
