@@ -16,25 +16,25 @@ Below is the schedule for the next 4 weeks (see below for the full schedule). Ga
 
 |Week|Date|Time|Teams|Field|
 |---|---|---|---|---|
-|3|6/18/2018|6:30 PM|***Weekend Wildlings*** v ***Buck Wilder*** v ***yes***|Bryn Mawr #4|
-||6/18/2018|6:30 PM|***Foster Children*** v ***Jammmie Dodgers*** v ***Josh's Hot Sauce Enema***|Bryn Mawr #5|
 |4|6/25/2018|6:30 PM|***yes*** v ***Buck Wilder*** v ***Foster Children***|Bryn Mawr #4|
 ||6/25/2018|6:30 PM|***Josh's Hot Sauce Enema*** v ***Jammmie Dodgers*** v ***Weekend Wildlings***|Bryn Mawr #5|
 |5|7/2/2018|6:30 PM|***BW*** v ***JHSE*** v ***JD***|Bryn Mawr #4|
 ||7/2/2018|6:30 PM|***yes*** v ***WW*** v ***FC***|Bryn Mawr #5|
 |6|7/9/2018|6:30 PM|***BW*** v ***JHSE*** v ***WW***|Bryn Mawr #4|
 ||7/9/2018|6:30 PM|***yes*** v ***JD*** v ***FC***|Bryn Mawr #5|
+|7|7/16/2018|6:30 PM|***BW*** v ***JHSE*** v ***FC***|Bryn Mawr #4|
+||7/16/2018|6:30 PM|***yes*** v ***JD*** v ***WW***|Bryn Mawr #5|
 
 # Standings
 
 |Place|Team Name|Points|W (5pts)|2nd (3pts)|L (1pt)|Runs|
 |---|---|---|---|---|---|---|
-|1|Foster Children|10|2|0|0|48|
-|2|Buck Wilder|8|1|1|0|29|
-|3|Josh's Hot Sauce Enema|6|1|0|1|24|
-|4|Weekend Wildlings|4|0|1|1|21|
-|5|yes|4|0|1|1|11|
-|6|Jammie Dodgers|4|0|1|1|8|
+|1|Foster Children|13|2|1|0|62|
+|2|Josh's Hot Sauce Enema|11|2|0|1|39|
+|2|Buck Wilder|11|1|2|0|35|
+|4|Weekend Wildlings|9|1|1|1|34|
+|5|yes|5|0|1|2|13|
+|5|Jammie Dodgers|5|0|1|2|11|
 
 # Rosters
 
@@ -57,16 +57,16 @@ These are the top 10 players, sorted by batting average (min 3AB)! Please contac
 
 |Name|H|AB|BA|HR|SO|R|
 |---|---|---|---|---|---|---|
-|Kareem Itani|12|13|0.923|2|0|7|
 |Tarah Cleveland |12|13|0.923|0|0|10|
-|Steven Lafeir|8|9|0.888|0|0|5|
-|Wilson Ngai|7|8|0.875|0|1|4|
-|Mitchell Fossen|7|8|0.875|1|0|3|
-|Brady Fish|10|12|0.833|1|0|10|
+|Kareem Itani|15|17|0.882|2|0|8|
+|Jordan McGowan|13|16|0.812|4|0|11|
+|Brady Fish|14|18|0.777|1|0|12|
 |Joshua Varghese|7|9|0.777|0|1|4|
+|Rex Raetz|7|9|0.777|0|1|4|
 |Mike Wold|10|13|0.769|2|0|8|
-|YA BOI EDBOI|6|8|0.750|1|0|3|
-|Jimmy Xiong|3|4|0.750|0|0|2|
+|Mitchell Fossen|10|13|0.769|1|0|3|
+|YA BOI EDBOI|9|12|0.75|1|0|4|
+|Daniel Alexander Byland|6|8|0.75|1|0|3|
 
 # Potential Subs
 
@@ -93,8 +93,8 @@ If your team is short a player, there are a number of people who have volunteere
 ||5/21/2018|6:30 PM|***JD (2nd)*** v ***WW (3rd)*** v ***FC (1st)***|Bryn Mawr #5|
 |2|6/4/2018|6:30 PM|***yes (2nd)*** v ***BW (1st)*** v ***JD (3rd)***|Bryn Mawr #4|
 ||6/4/2018|6:30 PM|***JHSE (3rd)*** v ***WW (2nd)*** v ***FC (1st)***|Bryn Mawr #5|
-|3|6/18/2018|6:30 PM|***WW*** v ***BW*** v ***yes***|Bryn Mawr #4|
-||6/18/2018|6:30 PM|***FC*** v ***JD*** v ***JHSE***|Bryn Mawr #5|
+|3|6/18/2018|6:30 PM|***WW (1st)*** v ***BW (2nd)*** v ***yes (3rd)***|Bryn Mawr #4|
+||6/18/2018|6:30 PM|***FC (2nd)*** v ***JD (3rd)*** v ***JHSE (1st)***|Bryn Mawr #5|
 |4|6/25/2018|6:30 PM|***yes*** v ***BW*** v ***FC***|Bryn Mawr #4|
 ||6/25/2018|6:30 PM|***JHSE*** v ***JD*** v ***WW***|Bryn Mawr #5|
 |5|7/2/2018|6:30 PM|***BW*** v ***JHSE*** v ***JD***|Bryn Mawr #4|
