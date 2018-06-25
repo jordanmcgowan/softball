@@ -16,14 +16,14 @@ Below is the schedule for the next 4 weeks (see below for the full schedule). Ga
 
 |Week|Date|Time|Teams|Field|
 |---|---|---|---|---|
-|4|6/25/2018|6:30 PM|***yes*** v ***Buck Wilder*** v ***Foster Children***|Bryn Mawr #4|
-||6/25/2018|6:30 PM|***Josh's Hot Sauce Enema*** v ***Jammmie Dodgers*** v ***Weekend Wildlings***|Bryn Mawr #5|
-|5|7/2/2018|6:30 PM|***BW*** v ***JHSE*** v ***JD***|Bryn Mawr #4|
-||7/2/2018|6:30 PM|***yes*** v ***WW*** v ***FC***|Bryn Mawr #5|
-|6|7/9/2018|6:30 PM|***BW*** v ***JHSE*** v ***WW***|Bryn Mawr #4|
-||7/9/2018|6:30 PM|***yes*** v ***JD*** v ***FC***|Bryn Mawr #5|
-|7|7/16/2018|6:30 PM|***BW*** v ***JHSE*** v ***FC***|Bryn Mawr #4|
-||7/16/2018|6:30 PM|***yes*** v ***JD*** v ***WW***|Bryn Mawr #5|
+|4|6/25/2018|6:30 PM|***WW*** v ***JHSE*** v ***BW***|Bryn Mawr #4|
+||6/25/2018|6:30 PM|***JD*** v ***FC*** v ***yes***|Bryn Mawr #5|
+|5|7/2/2018|6:30 PM|***FC*** v ***yes*** v ***JHSE***|Bryn Mawr #4|
+||7/2/2018|6:30 PM|***WW*** v ***BW*** v ***JD***|Bryn Mawr #5|
+|6|7/9/2018|6:30 PM|***BW*** v ***JHSE*** v ***FC***|Bryn Mawr #4|
+||7/9/2018|6:30 PM|***WW*** v ***yes*** v ***JD***|Bryn Mawr #5|
+|7|7/16/2018|6:30 PM|***BW*** v ***FC*** v ***yes***|Bryn Mawr #4|
+||7/16/2018|6:30 PM|***JD*** v ***JHSE*** v ***WW***|Bryn Mawr #5|
 
 # Standings
 
@@ -95,20 +95,20 @@ If your team is short a player, there are a number of people who have volunteere
 ||6/4/2018|6:30 PM|***JHSE (3rd)*** v ***WW (2nd)*** v ***FC (1st)***|Bryn Mawr #5|
 |3|6/18/2018|6:30 PM|***WW (1st)*** v ***BW (2nd)*** v ***yes (3rd)***|Bryn Mawr #4|
 ||6/18/2018|6:30 PM|***FC (2nd)*** v ***JD (3rd)*** v ***JHSE (1st)***|Bryn Mawr #5|
-|4|6/25/2018|6:30 PM|***yes*** v ***BW*** v ***FC***|Bryn Mawr #4|
-||6/25/2018|6:30 PM|***JHSE*** v ***JD*** v ***WW***|Bryn Mawr #5|
-|5|7/2/2018|6:30 PM|***BW*** v ***JHSE*** v ***JD***|Bryn Mawr #4|
-||7/2/2018|6:30 PM|***yes*** v ***WW*** v ***FC***|Bryn Mawr #5|
-|6|7/9/2018|6:30 PM|***BW*** v ***JHSE*** v ***WW***|Bryn Mawr #4|
-||7/9/2018|6:30 PM|***yes*** v ***JD*** v ***FC***|Bryn Mawr #5|
-|7|7/16/2018|6:30 PM|***BW*** v ***JHSE*** v ***FC***|Bryn Mawr #4|
-||7/16/2018|6:30 PM|***yes*** v ***JD*** v ***WW***|Bryn Mawr #5|
-|8|7/23/2018|6:30 PM|***yes*** v ***BW*** v ***JD***|Bryn Mawr #4|
-||7/23/2018|6:30 PM|***JHSE*** v ***WW*** v ***FC***|Bryn Mawr #5
-|9|7/30/2018|6:30 PM|***yes*** v ***JHSE*** v ***WW***|Bryn Mawr #4|
-||7/30/2018|6:30 PM|***BW*** v ***JD*** v ***FC***|Bryn Mawr #5|
-|10|8/6/2018|6:30 PM|***yes*** v ***BW*** v ***FC***|Bryn Mawr #4|
-||8/6/2018|6:30 PM|***JHSE*** v ***JD*** v ***WW***|Bryn Mawr #5|
+|4|6/25/2018|6:30 PM|***WW*** v ***JHSE*** v ***BW***|Bryn Mawr #4|
+||6/25/2018|6:30 PM|***JD*** v ***FC*** v ***yes***|Bryn Mawr #5|
+|5|7/2/2018|6:30 PM|***FC*** v ***yes*** v ***JHSE***|Bryn Mawr #4|
+||7/2/2018|6:30 PM|***WW*** v ***BW*** v ***JD***|Bryn Mawr #5|
+|6|7/9/2018|6:30 PM|***BW*** v ***JHSE*** v ***FC***|Bryn Mawr #4|
+||7/9/2018|6:30 PM|***WW*** v ***yes*** v ***JD***|Bryn Mawr #5|
+|7|7/16/2018|6:30 PM|***BW*** v ***FC*** v ***yes***|Bryn Mawr #4|
+||7/16/2018|6:30 PM|***JD*** v ***JHSE*** v ***WW***|Bryn Mawr #5|
+|8|7/23/2018|6:30 PM|***yes*** v ***JD*** v ***JHSE***|Bryn Mawr #4|
+||7/23/2018|6:30 PM|***FC*** v ***WW*** v ***BW***|Bryn Mawr #5
+|9|7/30/2018|6:30 PM|***JHSE*** v ***yes*** v ***WW***|Bryn Mawr #4|
+||7/30/2018|6:30 PM|***JD*** v ***FC*** v ***BW***|Bryn Mawr #5|
+|10|8/6/2018|6:30 PM|***BW*** v ***JD*** v ***JHSE***|Bryn Mawr #4|
+||8/6/2018|6:30 PM|***FC*** v ***WW*** v ***yes***|Bryn Mawr #5|
 |P1|8/13/2018|6:30 PM|***TBD*** v ***TBD*** v ***TBD***|Bryn Mawr #4|
 ||8/13/2018|6:30 PM|***TBD*** v ***TBD*** v ***TBD***|Bryn Mawr #5|
 |P2|8/20/2018|6:30 PM|***TBD*** v ***TBD*** v ***TBD***|Bryn Mawr #4|
