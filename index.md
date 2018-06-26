@@ -87,14 +87,14 @@ If your team is short a player, there are a number of people who have volunteere
 
 |Week|Date|Time|Teams|Field|
 |---|---|---|---|---|
-|1|5/21/2018|6:30 PM|***yes (3rd - 5)*** v ***BW (2nd - 7)*** v ***JHSE (1st - 20)***|Bryn Mawr #4|
-||5/21/2018|6:30 PM|***JD (2nd - 8)*** v ***WW (3rd - 5)*** v ***FC (1st - 27)***|Bryn Mawr #5|
-|2|6/4/2018|6:30 PM|***yes (2nd - 6)*** v ***BW (1st - 22)*** v ***JD (3rd - 0)***|Bryn Mawr #4|
-||6/4/2018|6:30 PM|***JHSE (3rd - 2)*** v ***WW (2nd - 16)*** v ***FC (1st - 21)***|Bryn Mawr #5|
-|3|6/18/2018|6:30 PM|***WW (1st - 13)*** v ***BW (2nd - 6)*** v ***yes (3rd - 2)***|Bryn Mawr #4|
-||6/18/2018|6:30 PM|***FC (2nd - 14)*** v ***JD (3rd - 3)*** v ***JHSE (1st - 15)***|Bryn Mawr #5|
-|4|6/25/2018|6:30 PM|***WW (2nd - 12)*** v ***JHSE (1st - 17)*** v ***BW (3rd - 7)***|Bryn Mawr #4|
-||6/25/2018|6:30 PM|***JD (2nd - 3)*** v ***FC (1st - 9)*** v ***yes (3rd - 1)***|Bryn Mawr #5|
+|1|5/21/2018|6:30 PM|***yes*** (3rd - 5) v ***BW*** (2nd - 7) v ***JHSE*** (1st - 20)|Bryn Mawr #4|
+||5/21/2018|6:30 PM|***JD*** (2nd - 8) v ***WW*** (3rd - 5) v ***FC*** (1st - 27)|Bryn Mawr #5|
+|2|6/4/2018|6:30 PM|***yes*** (2nd - 6) v ***BW*** (1st - 22) v ***JD*** (3rd - 0)|Bryn Mawr #4|
+||6/4/2018|6:30 PM|***JHSE*** (3rd - 2) v ***WW*** (2nd - 16) v ***FC*** (1st - 21)|Bryn Mawr #5|
+|3|6/18/2018|6:30 PM|***WW*** (1st - 13) v ***BW*** (2nd - 6) v ***yes*** (3rd - 2)|Bryn Mawr #4|
+||6/18/2018|6:30 PM|***FC*** (2nd - 14) v ***JD*** (3rd - 3) v ***JHSE*** (1st - 15)|Bryn Mawr #5|
+|4|6/25/2018|6:30 PM|***WW*** (2nd - 12) v ***JHSE*** (1st - 17) v ***BW*** (3rd - 7)|Bryn Mawr #4|
+||6/25/2018|6:30 PM|***JD*** (2nd - 3) v ***FC*** (1st - 9) v ***yes*** (3rd - 1)|Bryn Mawr #5|
 |5|7/2/2018|6:30 PM|***FC*** v ***yes*** v ***JHSE***|Bryn Mawr #4|
 ||7/2/2018|6:30 PM|***WW*** v ***BW*** v ***JD***|Bryn Mawr #5|
 |6|7/9/2018|6:30 PM|***BW*** v ***JHSE*** v ***FC***|Bryn Mawr #4|
