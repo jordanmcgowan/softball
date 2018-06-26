@@ -29,10 +29,10 @@ Below is the schedule for the next 4 weeks (see below for the full schedule). Ga
 |---|---|---|---|---|---|---|
 |1|Foster Children|18|3|1|0|71|
 |2|Josh's Hot Sauce Enema|16|3|0|1|56|
-|3|Weekend Wildlings|14|2|1|1|46|
-|4|Buck Wilder|12|1|2|1|42|
-|5|Jammie Dodgers|8|0|2|2|14|
-|6|yes|6|0|1|3|14|
+|3|Weekend Wildlings|12|1|2|1|46|
+|3|Buck Wilder|12|1|2|1|42|
+|4|Jammie Dodgers|8|0|2|2|14|
+|5|yes|6|0|1|3|14|
 
 # Rosters
 
