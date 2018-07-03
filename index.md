@@ -14,25 +14,25 @@ Below is the schedule for the next 4 weeks (see below for the full schedule). Ga
 
 |Week|Date|Time|Teams|Field|
 |---|---|---|---|---|
-|5|7/2/2018|6:30 PM|***FC*** v ***yes*** v ***JHSE***|Bryn Mawr #4|
-||7/2/2018|6:30 PM|***WW*** v ***BW*** v ***JD***|Bryn Mawr #5|
 |6|7/9/2018|6:30 PM|***BW*** v ***JHSE*** v ***FC***|Bryn Mawr #4|
 ||7/9/2018|6:30 PM|***WW*** v ***yes*** v ***JD***|Bryn Mawr #5|
 |7|7/16/2018|6:30 PM|***BW*** v ***FC*** v ***yes***|Bryn Mawr #4|
 ||7/16/2018|6:30 PM|***JD*** v ***JHSE*** v ***WW***|Bryn Mawr #5|
 |8|7/23/2018|6:30 PM|***yes*** v ***JD*** v ***JHSE***|Bryn Mawr #4|
 ||7/23/2018|6:30 PM|***FC*** v ***WW*** v ***BW***|Bryn Mawr #5
+|9|7/30/2018|6:30 PM|***JHSE*** v ***yes*** v ***WW***|Bryn Mawr #4|
+||7/30/2018|6:30 PM|***JD*** v ***FC*** v ***BW***|Bryn Mawr #5|
 
 # Standings
 
 |Place|Team Name|Points|W (5pts)|2nd (3pts)|L (1pt)|Runs|
 |---|---|---|---|---|---|---|
-|1|Foster Children|18|3|1|0|71|
-|2|Josh's Hot Sauce Enema|16|3|0|1|56|
-|3|Weekend Wildlings|12|1|2|1|46|
-|3|Buck Wilder|12|1|2|1|42|
-|4|Jammie Dodgers|8|0|2|2|14|
-|5|yes|6|0|1|3|14|
+|1|Foster Children|23|4|1|0|83|
+|2|Josh's Hot Sauce Enema|19|3|1|1|65|
+|3|Weekend Wildlings|17|2|2|1|61|
+|4|Buck Wilder|15|1|3|1|54|
+|5|Jammie Dodgers|9|0|2|3|16|
+|6|yes|7|0|1|4|22|
 
 # Rosters
 
@@ -56,14 +56,14 @@ These are the top 10 players, sorted by batting average (min 10AB)! Please conta
 |Name|H|AB|BA|HR|SO|R|
 |---|---|---|---|---|---|---|
 |Kareem Itani|15|17|0.882|2|0|8|
-|Rex Raetz|11|13|0.846|0|1|6|
-|John Kelly Russ|18|22|0.818|2|0|14|
-|Joshua Varghese|12|15|0.8|0|2|7|
-|Brady Fish|18|23|0.782|5|0|15|
+|Rex Raetz|15|18|0.833|1|1|11|
+|John Kelly Russ|22|27|0.814|2|0|15|
+|Mitchell Fossen|17|21|0.809|1|0|10|
+|Brady Fish|22|28|0.785|6|0|18|
+|Jordan McGowan|14|18|0.777|4|0|12|
 |Mike Wold|10|13|0.769|2|0|8|
-|Jordan McGowan|13|17|0.764|4|0|11|
-|Mitchell Fossen|13|17|0.764|1|0|6|
-|Wilson Ngai|11|15|0.733|0|1|7|
+|Alexander Glowacki|14|19|0.736|1|0|8|
+|Kurt Poquette|8|11|0.727|0|0|1|
 |Steven Lafeir|13|18|0.722|0|0|8|
 
 # Potential Subs
@@ -95,8 +95,8 @@ If your team is short a player, there are a number of people who have volunteere
 ||6/18/2018|6:30 PM|***FC*** (2nd - 14) v ***JD*** (3rd - 3) v ***JHSE*** (1st - 15)|Bryn Mawr #5|
 |4|6/25/2018|6:30 PM|***WW*** (2nd - 12) v ***JHSE*** (1st - 17) v ***BW*** (3rd - 7)|Bryn Mawr #4|
 ||6/25/2018|6:30 PM|***JD*** (2nd - 3) v ***FC*** (1st - 9) v ***yes*** (3rd - 1)|Bryn Mawr #5|
-|5|7/2/2018|6:30 PM|***FC*** v ***yes*** v ***JHSE***|Bryn Mawr #4|
-||7/2/2018|6:30 PM|***WW*** v ***BW*** v ***JD***|Bryn Mawr #5|
+|5|7/2/2018|6:30 PM|***FC*** (1st - 12) v ***yes*** (3rd - 8) v ***JHSE*** (2nd - 9)|Bryn Mawr #4|
+||7/2/2018|6:30 PM|***WW*** (1st - 25) v ***BW*** (2nd - 12) v ***JD*** (3rd - 2)|Bryn Mawr #5|
 |6|7/9/2018|6:30 PM|***BW*** v ***JHSE*** v ***FC***|Bryn Mawr #4|
 ||7/9/2018|6:30 PM|***WW*** v ***yes*** v ***JD***|Bryn Mawr #5|
 |7|7/16/2018|6:30 PM|***BW*** v ***FC*** v ***yes***|Bryn Mawr #4|
