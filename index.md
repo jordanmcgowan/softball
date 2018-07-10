@@ -55,16 +55,16 @@ These are the top 10 players, sorted by batting average (min 10AB)! Please conta
 
 |Name|H|AB|BA|HR|SO|R|
 |---|---|---|---|---|---|---|
-|Kareem Itani|15|17|0.882|2|0|8|
-|Rex Raetz|15|18|0.833|1|1|11|
-|John Kelly Russ|22|27|0.814|2|0|15|
-|Mitchell Fossen|17|21|0.809|1|0|10|
-|Brady Fish|22|28|0.785|6|0|18|
-|Jordan McGowan|14|18|0.777|4|0|12|
-|Mike Wold|10|13|0.769|2|0|8|
-|Alexander Glowacki|14|19|0.736|1|0|8|
-|Kurt Poquette|8|11|0.727|0|0|1|
-|Steven Lafeir|13|18|0.722|0|0|8|
+|Kareem Itani|17|19|0.894|2|0|8|  (+.012)
+|Mitchell Fossen|21|25|0.840|1|0|13|  (+.031)
+|Rex Raetz|18|22|0.818|1|3|12|  (-.025)
+|John Kelly Russ|22|27|0.814|2|0|15|  (+/- .000)
+|Jordan McGowan|19|24|0.791|4|0|15|  (+.014)
+|Brady Fish|22|28|0.785|6|0|18|  (+/- .000)
+|Mike Wold|10|13|0.769|2|0|8|  (+/- .000)
+|Wilson Ngai|16|23|0.695|0|1|11|  (NEW)
+|Daniel Alexander Byland|13|19|0.684|1|0|6|  (NEW)
+|Clay Beyers|21|31|0.677|3|1|14|  (NEW)
 
 # Potential Subs
 
