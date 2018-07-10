@@ -55,16 +55,16 @@ These are the top 10 players, sorted by batting average (min 10AB)! Please conta
 
 |Name|H|AB|BA|HR|SO|R|CHANGE|
 |---|---|---|---|---|---|---|---|
-|Kareem Itani|17|19|0.894|2|0|8|(+.012)|
-|Mitchell Fossen|21|25|0.840|1|0|13|(+.031)|
-|Rex Raetz|18|22|0.818|1|3|12|(-.025)|
-|John Kelly Russ|22|27|0.814|2|0|15|(+/- .000)|
-|Jordan McGowan|19|24|0.791|4|0|15|(+.014)|
-|Brady Fish|22|28|0.785|6|0|18|(+/- .000)|
-|Mike Wold|10|13|0.769|2|0|8|(+/- .000)|
-|Wilson Ngai|16|23|0.695|0|1|11|(NEW)|
-|Daniel Alexander Byland|13|19|0.684|1|0|6|(NEW)|
-|Clay Beyers|21|31|0.677|3|1|14|(NEW)|
+|Kareem Itani|17|19|0.894|2|0|8|+.012|
+|Mitchell Fossen|21|25|0.840|1|0|13|+.031|
+|Rex Raetz|18|22|0.818|1|3|12|-.025|
+|John Kelly Russ|22|27|0.814|2|0|15|+/-.000|
+|Jordan McGowan|19|24|0.791|4|0|15|+.014|
+|Brady Fish|22|28|0.785|6|0|18|+/-.000|
+|Mike Wold|10|13|0.769|2|0|8|+/-.000|
+|Wilson Ngai|16|23|0.695|0|1|11|NEW|
+|Daniel Alexander Byland|13|19|0.684|1|0|6|NEW|
+|Clay Beyers|21|31|0.677|3|1|14|NEW|
 
 # Potential Subs
 
