@@ -14,25 +14,25 @@ Below is the schedule for the next 4 weeks (see below for the full schedule). Ga
 
 |Week|Date|Time|Teams|Field|
 |---|---|---|---|---|
-|6|7/9/2018|6:30 PM|***BW*** v ***JHSE*** v ***FC***|Bryn Mawr #4|
-||7/9/2018|6:30 PM|***WW*** v ***yes*** v ***JD***|Bryn Mawr #5|
 |7|7/16/2018|6:30 PM|***BW*** v ***FC*** v ***yes***|Bryn Mawr #4|
 ||7/16/2018|6:30 PM|***JD*** v ***JHSE*** v ***WW***|Bryn Mawr #5|
 |8|7/23/2018|6:30 PM|***yes*** v ***JD*** v ***JHSE***|Bryn Mawr #4|
 ||7/23/2018|6:30 PM|***FC*** v ***WW*** v ***BW***|Bryn Mawr #5
 |9|7/30/2018|6:30 PM|***JHSE*** v ***yes*** v ***WW***|Bryn Mawr #4|
 ||7/30/2018|6:30 PM|***JD*** v ***FC*** v ***BW***|Bryn Mawr #5|
+|10|8/6/2018|6:30 PM|***BW*** v ***JD*** v ***JHSE***|Bryn Mawr #4|
+||8/6/2018|6:30 PM|***FC*** v ***WW*** v ***yes***|Bryn Mawr #5|
 
 # Standings
 
 |Place|Team Name|Points|W (5pts)|2nd (3pts)|L (1pt)|Runs|
 |---|---|---|---|---|---|---|
-|1|Foster Children|23|4|1|0|83|
-|2|Josh's Hot Sauce Enema|19|3|1|1|65|
-|3|Weekend Wildlings|17|2|2|1|61|
-|4|Buck Wilder|15|1|3|1|54|
-|5|Jammie Dodgers|9|0|2|3|16|
-|6|yes|7|0|1|4|22|
+|1|Foster Children|26|4|2|0|98|
+|2|Josh's Hot Sauce Enema|24|4|1|1|81|
+|3|Weekend Wildlings|22|3|2|1|72|
+|4|Buck Wilder|18|1|4|1|66|
+|5|yes|10|0|2|4|27|
+|5|Jammie Dodgers|10|0|2|4|18|
 
 # Rosters
 
@@ -97,8 +97,8 @@ If your team is short a player, there are a number of people who have volunteere
 ||6/25/2018|6:30 PM|***JD*** (2nd - 3) v ***FC*** (1st - 9) v ***yes*** (3rd - 1)|Bryn Mawr #5|
 |5|7/2/2018|6:30 PM|***FC*** (1st - 12) v ***yes*** (3rd - 8) v ***JHSE*** (2nd - 9)|Bryn Mawr #4|
 ||7/2/2018|6:30 PM|***WW*** (1st - 25) v ***BW*** (2nd - 12) v ***JD*** (3rd - 2)|Bryn Mawr #5|
-|6|7/9/2018|6:30 PM|***BW*** v ***JHSE*** v ***FC***|Bryn Mawr #4|
-||7/9/2018|6:30 PM|***WW*** v ***yes*** v ***JD***|Bryn Mawr #5|
+|6|7/9/2018|6:30 PM|***BW*** (3rd - 12) v ***JHSE*** (1st - 16) v ***FC*** (2nd - 15)|Bryn Mawr #4|
+||7/9/2018|6:30 PM|***WW*** (1st - 11) v ***yes*** (2nd - 5) v ***JD*** (3rd - 2)|Bryn Mawr #5|
 |7|7/16/2018|6:30 PM|***BW*** v ***FC*** v ***yes***|Bryn Mawr #4|
 ||7/16/2018|6:30 PM|***JD*** v ***JHSE*** v ***WW***|Bryn Mawr #5|
 |8|7/23/2018|6:30 PM|***yes*** v ***JD*** v ***JHSE***|Bryn Mawr #4|
