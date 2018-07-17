@@ -6,65 +6,48 @@ If you are new to 5v5v5 softball, please review the rules [here](https://static.
 
 The first team listed in the matchup will bat **first**, the second team will take the RIGHT side of the field, and the last team the LEFT side. The teams will then rotate clockwise for 5 innings (time capped at 1 and 30 minutes). Any ties and the two teams will both be awarded the points of the lower position.
 
-*NOTE: If players would like to continue playing after the league games are over, whoever would like can stick around for a pick up game immediately following the league game.*
-
 # Schedule
 
 Below is the schedule for the next 4 weeks (see below for the full schedule). Games will be every Monday at 6:30 Bryn Mawr #4 and #5 (*Field subject to change based on availability*).
 
 |Week|Date|Time|Teams|Field|
 |---|---|---|---|---|
-|7|7/16/2018|6:30 PM|***BW*** v ***FC*** v ***yes***|Bryn Mawr #4|
-||7/16/2018|6:30 PM|***JD*** v ***JHSE*** v ***WW***|Bryn Mawr #5|
 |8|7/23/2018|6:30 PM|***yes*** v ***JD*** v ***JHSE***|Bryn Mawr #4|
 ||7/23/2018|6:30 PM|***FC*** v ***WW*** v ***BW***|Bryn Mawr #5
 |9|7/30/2018|6:30 PM|***JHSE*** v ***yes*** v ***WW***|Bryn Mawr #4|
 ||7/30/2018|6:30 PM|***JD*** v ***FC*** v ***BW***|Bryn Mawr #5|
 |10|8/6/2018|6:30 PM|***BW*** v ***JD*** v ***JHSE***|Bryn Mawr #4|
 ||8/6/2018|6:30 PM|***FC*** v ***WW*** v ***yes***|Bryn Mawr #5|
+|P1|8/13/2018|6:30 PM|***TBD*** v ***TBD*** v ***TBD***|Bryn Mawr #4|
+||8/13/2018|6:30 PM|***TBD*** v ***TBD*** v ***TBD***|Bryn Mawr #5|
 
 # Standings
 
 |Place|Team Name|Points|W (5pts)|2nd (3pts)|L (1pt)|Runs|
 |---|---|---|---|---|---|---|
-|1|Foster Children|26|4|2|0|93|
-|2|Josh's Hot Sauce Enema|24|4|1|1|78|
-|3|Weekend Wildlings|22|3|2|1|72|
-|4|Buck Wilder|16|1|3|2|66|
-|5|yes|10|0|2|4|27|
-|5|Jammie Dodgers|10|0|2|4|18|
-
-# Rosters
-
-Below are the team rosters, with the captain's name in ***bold and italics***. Players should be responsible for finding a sub if they cannot make it to a game, but ultimately that responsibility will fall on the captains to ensure they can field a team!
-
-|yes|Buck Wilder|Josh's Hot Sauce Enema|Jammmie Dodgers|Weekend Wildlings|Foster Children|
-|---|---|---|---|---|---|
-|***Kurt Poquette***|***Emeka Ezeji-Okoye***|***Jordan McGowan***|***Dom Smith***|***Haylie Helmold***|***Alex Foster***|
-|Daniel Alexander Byland|Kareem Itani|Derek Vander Vorste|Theryn Groetken|Mitchell Fossen|Tarah Cleveland|
-|YA BOI EDBOI|Andrea Schleicher|Rebecca Mozdy|Molly Servatius Smith|Alexander Glowacki|Clay Beyers|
-|Mitch Vostrez|Wilson Ngai|Joshua Varghese|Parker Lewis|Mithul Garg|Matthew Romero Moore|
-|Kiera Byland|Krista Dotzenrod|Rory Straubel|Maggie Connell|Karthik Bokka|Erin Hanson|
-|Kyler Witting|Nate Drews|Riley LaTour|McKenzie Groetken|Ryan Huber|Mike Wold|
-|Dean Chenensky|Jimmy Xiong|Vivek Kuppamala|Rom Hunter|Miranda Motsinger|Brady Fish|
-|Julia Bindler| |John Kelly Russ| |Rex Raetz||
+|1|Foster Children|31|5|2|0|116|
+|2|Josh's Hot Sauce Enema|27|4|2|1|93|
+|2|Weekend Wildlings|27|4|2|1|88|
+|3|Buck Wilder|19|1|4|2|78|
+|4|yes|11|0|2|5|33|
+|4|Jammie Dodgers|11|0|2|5|31|
 
 # Stats
 
-These are the top 10 players, sorted by batting average (min 10AB)! Please contact me for your personal stats, or with any discrepencies
+These are the top 10 players, sorted by batting average (min 20AB)! Please contact me for your personal stats, or with any discrepencies
 
 |Name|H|AB|BA|HR|SO|R|CHANGE|
 |---|---|---|---|---|---|---|---|
-|Kareem Itani|17|19|0.894|2|0|8|+.012|
-|Mitchell Fossen|21|25|0.840|1|0|13|+.031|
-|Rex Raetz|18|22|0.818|1|3|12|-.025|
+|Kareem Itani|21|23|0.913|3|0|12|+.019|
+|Mitchell Fossen|25|30|0.833|1|0|16|-.007|
+|Brady Fish|30|36|0.833|8|0|25|+.048|
 |John Kelly Russ|22|27|0.814|2|0|15|+/-.000|
-|Jordan McGowan|19|24|0.791|4|0|15|+.014|
-|Brady Fish|22|28|0.785|6|0|18|+/-.000|
-|Mike Wold|10|13|0.769|2|0|8|+/-.000|
-|Wilson Ngai|16|23|0.695|0|1|11|NEW|
-|Daniel Alexander Byland|13|19|0.684|1|0|6|NEW|
-|Clay Beyers|21|31|0.677|3|1|14|NEW|
+|Rex Raetz|21|26|0.807|4|1|13|-.011|
+|Jordan McGowan|23|29|0.793|7|0|19|+.002|
+|Alexander Glowacki|19|27|0.703|4|0|12|NEW|
+|Mithul Garg|16|23|0.695|0|0|9|NEW|
+|Tarah Cleveland |27|39|0.692|1|0|22|NEW|
+|Daniel Alexander Byland|15|22|0.681|1|0|7|-.003|
 
 # Potential Subs
 
@@ -99,8 +82,8 @@ If your team is short a player, there are a number of people who have volunteere
 ||7/2/2018|6:30 PM|***WW*** (1st - 25) v ***BW*** (2nd - 12) v ***JD*** (3rd - 2)|Bryn Mawr #5|
 |6|7/9/2018|6:30 PM|***BW*** (3rd - 12) v ***JHSE*** (1st - 16) v ***FC*** (2nd - 15)|Bryn Mawr #4|
 ||7/9/2018|6:30 PM|***WW*** (1st - 11) v ***yes*** (2nd - 5) v ***JD*** (3rd - 2)|Bryn Mawr #5|
-|7|7/16/2018|6:30 PM|***BW*** v ***FC*** v ***yes***|Bryn Mawr #4|
-||7/16/2018|6:30 PM|***JD*** v ***JHSE*** v ***WW***|Bryn Mawr #5|
+|7|7/16/2018|6:30 PM|***BW*** (2nd - 12) v ***FC*** (1st - 23) v ***yes*** (3rd - 6)|Bryn Mawr #4|
+||7/16/2018|6:30 PM|***JD*** (3rd - 12) v ***JHSE*** (2nd - 15) v ***WW*** (3rd - 16)|Bryn Mawr #5|
 |8|7/23/2018|6:30 PM|***yes*** v ***JD*** v ***JHSE***|Bryn Mawr #4|
 ||7/23/2018|6:30 PM|***FC*** v ***WW*** v ***BW***|Bryn Mawr #5
 |9|7/30/2018|6:30 PM|***JHSE*** v ***yes*** v ***WW***|Bryn Mawr #4|
@@ -111,3 +94,18 @@ If your team is short a player, there are a number of people who have volunteere
 ||8/13/2018|6:30 PM|***TBD*** v ***TBD*** v ***TBD***|Bryn Mawr #5|
 |P2|8/20/2018|6:30 PM|***TBD*** v ***TBD*** v ***TBD***|Bryn Mawr #4|
 ||8/20/2018|6:30 PM|***TBD*** v ***TBD*** v ***TBD***|Bryn Mawr #5|
+
+# Rosters
+
+Below are the team rosters, with the captain's name in ***bold and italics***. Players should be responsible for finding a sub if they cannot make it to a game, but ultimately that responsibility will fall on the captains to ensure they can field a team!
+
+|yes|Buck Wilder|Josh's Hot Sauce Enema|Jammmie Dodgers|Weekend Wildlings|Foster Children|
+|---|---|---|---|---|---|
+|***Kurt Poquette***|***Emeka Ezeji-Okoye***|***Jordan McGowan***|***Dom Smith***|***Haylie Helmold***|***Alex Foster***|
+|Daniel Alexander Byland|Kareem Itani|Derek Vander Vorste|Theryn Groetken|Mitchell Fossen|Tarah Cleveland|
+|YA BOI EDBOI|Andrea Schleicher|Rebecca Mozdy|Molly Servatius Smith|Alexander Glowacki|Clay Beyers|
+|Mitch Vostrez|Wilson Ngai|Joshua Varghese|Parker Lewis|Mithul Garg|Matthew Romero Moore|
+|Kiera Byland|Krista Dotzenrod|Rory Straubel|Maggie Connell|Karthik Bokka|Erin Hanson|
+|Kyler Witting|Nate Drews|Riley LaTour|McKenzie Groetken|Ryan Huber|Mike Wold|
+|Dean Chenensky|Jimmy Xiong|Vivek Kuppamala|Rom Hunter|Miranda Motsinger|Brady Fish|
+|Julia Bindler| |John Kelly Russ| |Rex Raetz||
