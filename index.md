@@ -10,16 +10,18 @@ The first team listed in the matchup will bat **first**, the second team will ta
 
 Below is the schedule for the next 4 weeks (see below for the full schedule). Games will be every Monday at 6:30 Bryn Mawr #4 and #5 (*Field subject to change based on availability*).
 
+NOTE: The games on Monday (6/23) have been postponed and the rest of the games will be pushed back a week.
+
 |Week|Date|Time|Teams|Field|
 |---|---|---|---|---|
-|8|7/23/2018|6:30 PM|***yes*** v ***JD*** v ***JHSE***|Bryn Mawr #4|
-||7/23/2018|6:30 PM|***FC*** v ***WW*** v ***BW***|Bryn Mawr #5
-|9|7/30/2018|6:30 PM|***JHSE*** v ***yes*** v ***WW***|Bryn Mawr #4|
-||7/30/2018|6:30 PM|***JD*** v ***FC*** v ***BW***|Bryn Mawr #5|
-|10|8/6/2018|6:30 PM|***BW*** v ***JD*** v ***JHSE***|Bryn Mawr #4|
-||8/6/2018|6:30 PM|***FC*** v ***WW*** v ***yes***|Bryn Mawr #5|
-|P1|8/13/2018|6:30 PM|***TBD*** v ***TBD*** v ***TBD***|Bryn Mawr #4|
-||8/13/2018|6:30 PM|***TBD*** v ***TBD*** v ***TBD***|Bryn Mawr #5|
+|8|7/30/2018|6:30 PM|***yes*** v ***JD*** v ***JHSE***|Bryn Mawr #4|
+||7/30/2018|6:30 PM|***FC*** v ***WW*** v ***BW***|Bryn Mawr #5
+|9|8/6/2018|6:30 PM|***JHSE*** v ***yes*** v ***WW***|Bryn Mawr #4|
+||8/6/2018|6:30 PM|***JD*** v ***FC*** v ***BW***|Bryn Mawr #5|
+|10|8/13/2018|6:30 PM|***BW*** v ***JD*** v ***JHSE***|Bryn Mawr #4|
+||8/13/2018|6:30 PM|***FC*** v ***WW*** v ***yes***|Bryn Mawr #5|
+|P1|8/20/2018|6:30 PM|***TBD*** v ***TBD*** v ***TBD***|Bryn Mawr #4|
+||8/20/2018|6:30 PM|***TBD*** v ***TBD*** v ***TBD***|Bryn Mawr #5|
 
 # Standings
 
@@ -84,16 +86,16 @@ If your team is short a player, there are a number of people who have volunteere
 ||7/9/2018|6:30 PM|***WW*** (1st - 11) v ***yes*** (2nd - 5) v ***JD*** (3rd - 2)|Bryn Mawr #5|
 |7|7/16/2018|6:30 PM|***BW*** (2nd - 12) v ***FC*** (1st - 23) v ***yes*** (3rd - 6)|Bryn Mawr #4|
 ||7/16/2018|6:30 PM|***JD*** (3rd - 12) v ***JHSE*** (2nd - 15) v ***WW*** (3rd - 16)|Bryn Mawr #5|
-|8|7/23/2018|6:30 PM|***yes*** v ***JD*** v ***JHSE***|Bryn Mawr #4|
-||7/23/2018|6:30 PM|***FC*** v ***WW*** v ***BW***|Bryn Mawr #5
-|9|7/30/2018|6:30 PM|***JHSE*** v ***yes*** v ***WW***|Bryn Mawr #4|
-||7/30/2018|6:30 PM|***JD*** v ***FC*** v ***BW***|Bryn Mawr #5|
-|10|8/6/2018|6:30 PM|***BW*** v ***JD*** v ***JHSE***|Bryn Mawr #4|
-||8/6/2018|6:30 PM|***FC*** v ***WW*** v ***yes***|Bryn Mawr #5|
-|P1|8/13/2018|6:30 PM|***TBD*** v ***TBD*** v ***TBD***|Bryn Mawr #4|
-||8/13/2018|6:30 PM|***TBD*** v ***TBD*** v ***TBD***|Bryn Mawr #5|
-|P2|8/20/2018|6:30 PM|***TBD*** v ***TBD*** v ***TBD***|Bryn Mawr #4|
+|8|7/30/2018|6:30 PM|***yes*** v ***JD*** v ***JHSE***|Bryn Mawr #4|
+||7/30/2018|6:30 PM|***FC*** v ***WW*** v ***BW***|Bryn Mawr #5
+|9|8/6/2018|6:30 PM|***JHSE*** v ***yes*** v ***WW***|Bryn Mawr #4|
+||8/6/2018|6:30 PM|***JD*** v ***FC*** v ***BW***|Bryn Mawr #5|
+|10|8/13/2018|6:30 PM|***BW*** v ***JD*** v ***JHSE***|Bryn Mawr #4|
+||8/13/2018|6:30 PM|***FC*** v ***WW*** v ***yes***|Bryn Mawr #5|
+|P1|8/20/2018|6:30 PM|***TBD*** v ***TBD*** v ***TBD***|Bryn Mawr #4|
 ||8/20/2018|6:30 PM|***TBD*** v ***TBD*** v ***TBD***|Bryn Mawr #5|
+|P2|8/27/2018|6:30 PM|***TBD*** v ***TBD*** v ***TBD***|Bryn Mawr #4|
+||8/27/2018|6:30 PM|***TBD*** v ***TBD*** v ***TBD***|Bryn Mawr #5|
 
 # Rosters
 
