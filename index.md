@@ -34,20 +34,30 @@ Below is the schedule for the next 4 weeks (see below for the full schedule). Ga
 
 # Stats
 
-These are the top 10 players, sorted by batting average (min 20AB)! Please contact me for your personal stats, or with any discrepencies
+These are the top 20 players, sorted by batting average (min 20AB)! Please contact me for your personal stats, or with any discrepencies
 
 |Name|H|AB|BA|HR|SO|R|CHANGE|
 |---|---|---|---|---|---|---|---|
-|Kareem Itani|21|23|0.913|3|0|12|+.019|
-|Mitchell Fossen|25|30|0.833|1|0|16|-.007|
-|Brady Fish|30|36|0.833|8|0|25|+.048|
-|John Kelly Russ|22|27|0.814|2|0|15|+/-.000|
-|Rex Raetz|21|26|0.807|4|1|13|-.011|
-|Jordan McGowan|23|29|0.793|7|0|19|+.002|
-|Alexander Glowacki|19|27|0.703|4|0|12|NEW|
-|Mithul Garg|16|23|0.695|0|0|9|NEW|
-|Tarah Cleveland |27|39|0.692|1|0|22|NEW|
-|Daniel Alexander Byland|15|22|0.681|1|0|7|-.003|
+|Kareem Itani|23|27|0.851|3|1|12|-.062|
+|Jordan McGowan|27|33|0.818|8|0|22|+.025|
+|Rex Raetz|21|26|0.807|4|1|13|+/-.000|
+|Brady Fish|33|41|0.804|9|0|26|-.019|
+|Mitchell Fossen|27|34|0.794|1|0|16|-.039|
+|John Kelly Russ|25|32|0.781|2|0|16|-.033|
+|YA BOI EDBOI|27|38|0.710|5|2|13|+.054|
+|Mithul Garg|16|23|0.695|0|0|9|+/-.000|
+|Tarah Cleveland |27|39|0.692|1|0|22|+/-.000|
+|Wilson Ngai|21|31|0.677|0|1|13|+.011|
+|Alexander Glowacki|21|31|0.677|4|0|13|
+|Clay Beyers|27|40|0.675|3|1|20|+/-.000|
+|Alex Foster|32|48|0.666|0|2|25|+.039|
+|Joshua Varghese|23|35|0.657|0|3|12|+/-.000|
+|Daniel Alexander Byland|18|28|0.642|1|0|7|-.039|
+|Kurt Poquette|16|25|0.640|1|0|5|-.060|
+|Steven Lafeir|18|29|0.620|0|0|11|-.033|
+|Haylie Helmold|16|26|0.615|0|1|9|-.021|
+|Rebecca Mozdy|16|27|0.592|1|1|8|+/-.000|
+|Matthew Romero Moore|16|27|0.592|0|1|6|+.002|
 
 # Potential Subs
 
