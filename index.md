@@ -48,7 +48,7 @@ These are the top 20 players, sorted by batting average (min 20AB)! Please conta
 |Mithul Garg|16|23|0.695|0|0|9|+/-.000|
 |Tarah Cleveland |27|39|0.692|1|0|22|+/-.000|
 |Wilson Ngai|21|31|0.677|0|1|13|+.011|
-|Alexander Glowacki|21|31|0.677|4|0|13|
+|Alexander Glowacki|21|31|0.677|4|0|13|-.026|
 |Clay Beyers|27|40|0.675|3|1|20|+/-.000|
 |Alex Foster|32|48|0.666|0|2|25|+.039|
 |Joshua Varghese|23|35|0.657|0|3|12|+/-.000|
