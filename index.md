@@ -49,7 +49,7 @@ These are the top 20 players, sorted by batting average (min 20AB)! Please conta
 |Alex Foster|37|55|0.672|0|2|27|+.006|
 |Alexander Glowacki|22|33|0.666|4|0|13|-.011|
 |Clay Beyers|31|47|0.659|3|1|23|-.016|
-|Kurt Poquette|19|30|0.633|1|0|6|-.007|
+|Kurt Poquette|19|30|0.676|1|0|6|+.036|
 |Joshua Varghese|23|37|0.621|0|3|12|-.036|
 |Daniel Alexander Byland|20|33|0.606|1|0|9|-.036|
 |Rebecca Mozdy|16|27|0.592|1|1|8|+/-.000|
