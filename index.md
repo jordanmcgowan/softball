@@ -33,25 +33,26 @@ Below is the schedule for the next 3 weeks (see below for the full schedule). Ga
 These are the top 20 players, sorted by batting average (min 20AB)! Please contact me for your personal stats, or with any discrepencies
 
 |Name|H|AB|BA|HR|SO|R|CHANGE|
-|Kareem Itani|30|37|0.8105|1|18|-.033|
+|---|---|---|---|---|---|---|---|
+|Kareem Itani|30|37|0.810|1|0|18|-.033|
 |Brady Fish|42|52|0.807|11|0|31|-.022|
 |Jordan McGowan|37|46|0.804|10|0|32|-.009|
 |John Kelly Russ|31|40|0.775|2|0|16|-.006|
-|Rex Raetz|21|28|0.750|4|1|13|+/-.000|
+|Rex Raetz|21|28|0.750|4|1|13| +/-.000|
 |YA BOI EDBOI|33|46|0.717|6|2|18|-.003|
 |Mitchell Fossen|28|40|0.700|1|0|17|-.050|
-|Wilson Ngai|21|31|0.677|0|1|13|+/-.000|
+|Wilson Ngai|21|31|0.677|0|1|13| +/-.000|
 |Kurt Poquette|23|34|0.676|1|0|7|+/-.000|
 |Tarah Cleveland |35|52|0.673|1|0|27|-.022|
-|Alex Foster|41|61|0.672|0|2|29|+/-.000|
-|Mithul Garg|20|30|0.666|0|0|9|-.014|
+|Alex Foster|41|61|0.672|0|2|29| +/-.000|
+|Mithul Garg|20|30|0.666|0|0|9|-.0141|
 |Rebecca Mozdy|23|35|0.657|1|1|14|+.065|
 |Clay Beyers|34|53|0.641|4|1|25|-.018|
 |Jimmy Xiong|14|22|0.636|0|0|8|-.009|
-|Joshua Varghese|23|37|0.621|0|3|12|+/-.000|
+|Joshua Varghese|23|37|0.621|0|3|12| +/-.000|
 |Alexander Glowacki|23|37|0.621|4|0|14|-.045|
 |Dean Chenensky|16|26|0.615|0|3|6|+.092|
-|Daniel Alexander Byland|20|33|0.606|1|0|9|+/-.000|
+|Daniel Alexander Byland|20|33|0.606|1|0|9| +/-.000|
 |Matthew Romero Moore|22|37|0.594|0|1|10|+.032|
 
 # Potential Subs
