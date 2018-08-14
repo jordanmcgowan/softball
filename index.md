@@ -12,10 +12,8 @@ Below is the schedule for the next 3 weeks (see below for the full schedule). Ga
 
 |Week|Date|Time|Teams|Field|
 |---|---|---|---|---|
-|10|8/13/2018|6:30 PM|***BW*** v ***JD*** v ***JHSE***|Bryn Mawr #4|
-||8/13/2018|6:30 PM|***FC*** v ***WW*** v ***yes***|Bryn Mawr #5|
-|P1|8/20/2018|6:30 PM|***TBD*** v ***TBD*** v ***TBD***|Bryn Mawr #4|
-||8/20/2018|6:30 PM|***TBD*** v ***TBD*** v ***TBD***|Bryn Mawr #5|
+|P1|8/20/2018|6:30 PM|**JD** v **BW** v **FC**|Bryn Mawr #4|
+||8/20/2018|6:30 PM|**yes** v **WW** v **JHSE**|Bryn Mawr #5|
 |P2|8/27/2018|6:30 PM|***TBD*** v ***TBD*** v ***TBD***|Bryn Mawr #4|
 ||8/27/2018|6:30 PM|***TBD*** v ***TBD*** v ***TBD***|Bryn Mawr #5|
 
@@ -23,39 +21,38 @@ Below is the schedule for the next 3 weeks (see below for the full schedule). Ga
 
 |Place|Team Name|Points|W (5pts)|2nd (3pts)|L (1pt)|Runs|
 |---|---|---|---|---|---|---|
-|1|Foster Children|41|7|2|0|144|
-|2|Josh's Hot Sauce Enema|33|4|4|1|108|
-|3|Weekend Wildlings|29|4|2|3|91|
-|4|Buck Wilder|25|1|6|2|93|
-|5|yes|19|1|3|5|52|
-|6|Jammie Dodgers|13|0|2|7|36|
+|1|Foster Children|44|7|3|0|154|
+|2|Josh's Hot Sauce Enema|38|5|4|1|131|
+|3|Weekend Wildlings|30|4|2|4|94|
+|4|Buck Wilder|28|1|7|2|99|
+|5|yes|24|2|3|5|64|
+|6|Jammie Dodgers|14|0|2|8|40|
 
 # Stats
 
 These are the top 20 players, sorted by batting average (min 20AB)! Please contact me for your personal stats, or with any discrepencies
 
 |Name|H|AB|BA|HR|SO|R|CHANGE|
-|---|---|---|---|---|---|---|---|
-|Kareem Itani|27|32|0.843|4|1|15|-.008|
-|Brady Fish|39|47|0.829|11|0|30|+.025|
-|Jordan McGowan|31|38|0.815|9|0|26|-.003|
-|John Kelly Russ|25|32|0.781|2|0|16|+/-.000|
-|Mitchell Fossen|27|36|0.750|1|0|16|-.044|
-|Rex Raetz|21|28|0.75|4|1|13|-.057|
-|YA BOI EDBOI|31|43|0.720|5|2|17|+.010|
-|Tarah Cleveland |32|46|0.695|1|0|25|+.003|
-|Mithul Garg|17|25|0.680|0|0|9|-.015|
+|Kareem Itani|30|37|0.8105|1|18|-.033|
+|Brady Fish|42|52|0.807|11|0|31|-.022|
+|Jordan McGowan|37|46|0.804|10|0|32|-.009|
+|John Kelly Russ|31|40|0.775|2|0|16|-.006|
+|Rex Raetz|21|28|0.750|4|1|13|+/-.000|
+|YA BOI EDBOI|33|46|0.717|6|2|18|-.003|
+|Mitchell Fossen|28|40|0.700|1|0|17|-.050|
 |Wilson Ngai|21|31|0.677|0|1|13|+/-.000|
-|Alex Foster|37|55|0.672|0|2|27|+.006|
-|Alexander Glowacki|22|33|0.666|4|0|13|-.011|
-|Clay Beyers|31|47|0.659|3|1|23|-.016|
-|Kurt Poquette|19|30|0.676|1|0|6|+.036|
-|Joshua Varghese|23|37|0.621|0|3|12|-.036|
-|Daniel Alexander Byland|20|33|0.606|1|0|9|-.036|
-|Rebecca Mozdy|16|27|0.592|1|1|8|+/-.000|
-|Steven Lafeir|20|34|0.588|0|0|12|-.032|
-|Riley LaTour|24|41|0.585|2|2|15|+/-.000|
-|Matthew Romero Moore|18|32|0.562|0|1|9|-.030|
+|Kurt Poquette|23|34|0.676|1|0|7|+/-.000|
+|Tarah Cleveland |35|52|0.673|1|0|27|-.022|
+|Alex Foster|41|61|0.672|0|2|29|+/-.000|
+|Mithul Garg|20|30|0.666|0|0|9|-.014|
+|Rebecca Mozdy|23|35|0.657|1|1|14|+.065|
+|Clay Beyers|34|53|0.641|4|1|25|-.018|
+|Jimmy Xiong|14|22|0.636|0|0|8|-.009|
+|Joshua Varghese|23|37|0.621|0|3|12|+/-.000|
+|Alexander Glowacki|23|37|0.621|4|0|14|-.045|
+|Dean Chenensky|16|26|0.615|0|3|6|+.092|
+|Daniel Alexander Byland|20|33|0.606|1|0|9|+/-.000|
+|Matthew Romero Moore|22|37|0.594|0|1|10|+.032|
 
 # Potential Subs
 
@@ -96,10 +93,10 @@ If your team is short a player, there are a number of people who have volunteere
 ||7/30/2018|6:30 PM|***FC*** (1st - 11) v ***WW*** (3rd - 2) v ***BW*** (2nd - 5)|Bryn Mawr #5
 |9|8/6/2018|6:30 PM|***JHSE*** (2nd - 9) v ***yes*** (2nd - 9) v ***WW*** (3rd - 1)|Bryn Mawr #4|
 ||8/6/2018|6:30 PM|***JD*** (3rd - 5) v ***FC*** (1st -17) v ***BW*** (2nd - 10)|Bryn Mawr #5|
-|10|8/13/2018|6:30 PM|***BW*** v ***JD*** v ***JHSE***|Bryn Mawr #4|
-||8/13/2018|6:30 PM|***FC*** v ***WW*** v ***yes***|Bryn Mawr #5|
-|P1|8/20/2018|6:30 PM|***TBD*** v ***TBD*** v ***TBD***|Bryn Mawr #4|
-||8/20/2018|6:30 PM|***TBD*** v ***TBD*** v ***TBD***|Bryn Mawr #5|
+|10|8/13/2018|6:30 PM|***BW*** (2nd - 6) v ***JD*** (3rd - 4) v ***JHSE*** (1st - 23)|Bryn Mawr #4|
+||8/13/2018|6:30 PM|***FC*** (2nd - 10) v ***WW*** (3rd - 4) v ***yes*** (1st - 12)|Bryn Mawr #5|
+|P1|8/20/2018|6:30 PM|**JD** v **BW** v **FC**|Bryn Mawr #4|
+||8/20/2018|6:30 PM|**yes** v **WW** v **JHSE**|Bryn Mawr #5|
 |P2|8/27/2018|6:30 PM|***TBD*** v ***TBD*** v ***TBD***|Bryn Mawr #4|
 ||8/27/2018|6:30 PM|***TBD*** v ***TBD*** v ***TBD***|Bryn Mawr #5|
 
