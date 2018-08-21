@@ -12,10 +12,8 @@ Below is the schedule for the next 3 weeks (see below for the full schedule). Ga
 
 |Week|Date|Time|Teams|Field|
 |---|---|---|---|---|
-|P1|8/20/2018|6:30 PM|**JD** v **BW** v **FC**|Bryn Mawr #4|
-||8/20/2018|6:30 PM|**yes** v **WW** v **JHSE**|Bryn Mawr #5|
-|P2|8/27/2018|6:30 PM|***TBD*** v ***TBD*** v ***TBD***|Bryn Mawr #4|
-||8/27/2018|6:30 PM|***TBD*** v ***TBD*** v ***TBD***|Bryn Mawr #5|
+|Championship|8/27/2018|6:30 PM|***JHSE*** v ***FC*** v ***WW***|Bryn Mawr #4|
+|Toilet Bowl|8/27/2018|6:30 PM|***JD*** v ***yes*** v ***BW***|Bryn Mawr #5|
 
 # Standings
 
@@ -96,10 +94,10 @@ If your team is short a player, there are a number of people who have volunteere
 ||8/6/2018|6:30 PM|***JD*** (3rd - 5) v ***FC*** (1st -17) v ***BW*** (2nd - 10)|Bryn Mawr #5|
 |10|8/13/2018|6:30 PM|***BW*** (2nd - 6) v ***JD*** (3rd - 4) v ***JHSE*** (1st - 23)|Bryn Mawr #4|
 ||8/13/2018|6:30 PM|***FC*** (2nd - 10) v ***WW*** (3rd - 4) v ***yes*** (1st - 12)|Bryn Mawr #5|
-|P1|8/20/2018|6:30 PM|**JD** v **BW** v **FC**|Bryn Mawr #4|
-||8/20/2018|6:30 PM|**yes** v **WW** v **JHSE**|Bryn Mawr #5|
-|P2|8/27/2018|6:30 PM|***TBD*** v ***TBD*** v ***TBD***|Bryn Mawr #4|
-||8/27/2018|6:30 PM|***TBD*** v ***TBD*** v ***TBD***|Bryn Mawr #5|
+|P1|8/20/2018|6:30 PM|**JD** (3rd - 4) v **BW** (2nd - 6) v **FC** (1st - 14)|Bryn Mawr #4|
+||8/20/2018|6:30 PM|**yes** (2nd - 12) v **WW** (1st - 22) v **JHSE** (3rd - 11)|Bryn Mawr #5|
+|Championship|8/27/2018|6:30 PM|***JHSE*** v ***FC*** v ***WW***|Bryn Mawr #4|
+|Toilet Bowl|8/27/2018|6:30 PM|***JD*** v ***yes*** v ***BW***|Bryn Mawr #5|
 
 # Rosters
 
