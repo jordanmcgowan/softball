@@ -12,8 +12,8 @@ Below is the schedule for the next week (see below for the full schedule). Games
 
 |Week|Date|Time|Teams|Field|
 |---|---|---|---|---|
-|Championship|8/27/2018|6:30 PM|***JHSE*** v ***FC*** v ***WW***|Bryn Mawr #4|
-|Toilet Bowl|8/27/2018|6:30 PM|***JD*** v ***yes*** v ***BW***|Bryn Mawr #5|
+|Championship|9/10/2018|6:30 PM|***JHSE*** v ***FC*** v ***WW***|Bryn Mawr #4|
+|Toilet Bowl|9/10/2018|6:30 PM|***JD*** v ***yes*** v ***BW***|Bryn Mawr #5|
 
 # Standings
 
@@ -96,8 +96,8 @@ If your team is short a player, there are a number of people who have volunteere
 ||8/13/2018|6:30 PM|***FC*** (2nd - 10) v ***WW*** (3rd - 4) v ***yes*** (1st - 12)|Bryn Mawr #5|
 |P1|8/20/2018|6:30 PM|**JD** (3rd - 4) v **BW** (2nd - 6) v **FC** (1st - 14)|Bryn Mawr #4|
 ||8/20/2018|6:30 PM|**yes** (2nd - 12) v **WW** (1st - 22) v **JHSE** (3rd - 11)|Bryn Mawr #5|
-|Championship|8/27/2018|6:30 PM|***JHSE*** v ***FC*** v ***WW***|Bryn Mawr #4|
-|Toilet Bowl|8/27/2018|6:30 PM|***JD*** v ***yes*** v ***BW***|Bryn Mawr #5|
+|Championship|9/10/2018|6:30 PM|***JHSE*** v ***FC*** v ***WW***|Bryn Mawr #4|
+|Toilet Bowl|9/10/2018|6:30 PM|***JD*** v ***yes*** v ***BW***|Bryn Mawr #5|
 
 # Rosters
 
