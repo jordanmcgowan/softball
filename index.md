@@ -6,16 +6,19 @@ If you are new to 5v5v5 softball, please review the rules [here](https://static.
 
 The first team listed in the matchup will bat **first**, the second team will take the RIGHT side of the field, and the last team the LEFT side. The teams will then rotate clockwise for 5 innings (time capped at 1 and 30 minutes). Any ties and the two teams will both be awarded the points of the lower position.
 
-# Schedule
+# NOTICE 
 
-Below is the schedule for the next week (see below for the full schedule). Games will be every Monday at 6:30 Bryn Mawr #4 and #5 (*Field subject to change based on availability*).
+Congratulations to the Weekend Wildlinds for a stunning championship victory! It was a great season, thank you all
+
+# Upcoming Schedule
+
+Below is the schedule for the next few weeks (see below for the full schedule). Games will be every Monday at 6:30 Bryn Mawr #4 and #5 (*Field subject to change based on availability*).
 
 |Week|Date|Time|Teams|Field|
 |---|---|---|---|---|
-|Championship|9/10/2018|6:30 PM|***JHSE*** v ***FC*** v ***WW***|Bryn Mawr #4|
-|Toilet Bowl|9/10/2018|6:30 PM|***JD*** v ***yes*** v ***BW***|Bryn Mawr #5|
 
-# Standings
+
+# Regular Season Standings
 
 |Place|Team Name|Points|W (5pts)|2nd (3pts)|L (1pt)|Runs|
 |---|---|---|---|---|---|---|
@@ -96,8 +99,8 @@ If your team is short a player, there are a number of people who have volunteere
 ||8/13/2018|6:30 PM|***FC*** (2nd - 10) v ***WW*** (3rd - 4) v ***yes*** (1st - 12)|Bryn Mawr #5|
 |P1|8/20/2018|6:30 PM|**JD** (3rd - 4) v **BW** (2nd - 6) v **FC** (1st - 14)|Bryn Mawr #4|
 ||8/20/2018|6:30 PM|**yes** (2nd - 12) v **WW** (1st - 22) v **JHSE** (3rd - 11)|Bryn Mawr #5|
-|Championship|9/10/2018|6:30 PM|***JHSE*** v ***FC*** v ***WW***|Bryn Mawr #4|
-|Toilet Bowl|9/10/2018|6:30 PM|***JD*** v ***yes*** v ***BW***|Bryn Mawr #5|
+|Championship|9/10/2018|6:30 PM|***JHSE*** (3rd - 4) v ***FC*** (2nd - 6) v ***WW*** (1st - 18)|Bryn Mawr #4|
+|Toilet Bowl|9/10/2018|6:30 PM|***JD*** (1st - 9) v ***yes*** (2nd - 7) v ***BW*** (3rd - 5)|Bryn Mawr #5|
 
 # Rosters
 
