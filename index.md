@@ -100,4 +100,4 @@ Below are the team rosters, with the captain's name in ***bold and italics***. P
 |Matthew Fevold|Zach Somberg|Erin Hanson|Emeka Ezeji-Okoye|John Russ|Darielle Criss McKellar|
 |Andrew Ray|Kyler Witting|Miranda Motsinger|Rebecca Mozdy|Trevor Gentner|Rory Straubel|
 |Derek Vander Vorste|Susan Yang|Nathan Samoy|Dean Chenensky|Patrick Erichson|Matthew Romero Moore|
-|Mitch Vostrez|Mitch Fossen|Austin Malerba|Cameron Huntington|Corbin Bullock|Bret Percy|
+|Mitch Vostrez|Brett Percy|Austin Malerba|Cameron Huntington|Corbin Bullock|Mitch Fossen|
