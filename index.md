@@ -6,31 +6,31 @@ If you are new to 5v5v5 softball, please review the rules [here](https://static.
 
 The first team listed in the matchup will bat **first**, the second team will take the RIGHT side of the field, and the last team the LEFT side. The teams will then rotate clockwise for 5 innings (time capped at 1 and 30 minutes). Any ties and the two teams will both be awarded the points of the lower position.
 
-# Upcoming Schedule (ignore for now)
+# Upcoming Schedule
 
 Below is the schedule for the next few weeks (see below for the full schedule). Games will be every Monday at 6:30 Bryn Mawr #4 and #5 (*Field subject to change based on availability*).
 
 |Week|Date|Time|Teams|Field|
 |---|---|---|---|---|
-|1|5/13/2018|6:30 PM|***1*** v ***2*** v ***3***|Bryn Mawr #4|
-||5/13/2018|6:30 PM|***1*** v ***2*** v ***3***)|Bryn Mawr #5|
-|2|5/20/2018|6:30 PM|***1*** v ***2*** v ***3***|Bryn Mawr #4|
-||5/20/2018|6:30 PM|***1*** v ***2*** v ***3***|Bryn Mawr #5|
-|3|5/27/2018|6:30 PM|***1*** v ***2*** v ***3***|Bryn Mawr #4|
-||5/27/2018|6:30 PM|***1*** v ***2*** v ***3***|Bryn Mawr #5|
-|4|6/3/2018|6:30 PM|***1*** v ***2*** v ***3***|Bryn Mawr #4|
-||6/3/2018|6:30 PM|***1*** v ***2*** v ***3***|Bryn Mawr #5|
+|1|5/20/2019|6:30 PM|***DDSB*** v ***DS*** v ***FCV2***|Bryn Mawr #4|
+||5/20/2019|6:30 PM|***CA*** v ***BNT*** v ***SFTB***|Bryn Mawr #5|
+|2|***TUESDAY***5/28/2019|6:30 PM|***DS*** v ***CA*** v ***DDSB***|Bryn Mawr #4|
+||5/28/2019|6:30 PM|***BNT*** v ***SFTB*** v ***FCV2***|Bryn Mawr #5|
+|3|6/3/2019|6:30 PM|***BNT*** v ***DDSB*** v ***DS***|Bryn Mawr #4|
+||6/3/2019|6:30 PM|***SFTB*** v ***FCV2*** v ***CA***|Bryn Mawr #5|
+|4|6/10/2019|6:30 PM|***DDSB*** v ***DS*** v ***SFTB***|Bryn Mawr #4|
+||6/10/2019|6:30 PM|***FCV2*** v ***CA*** v ***BNT***|Bryn Mawr #5|
 
 # Regular Season Standings
 
 |Place|Team Name|Points|W (5pts)|2nd (3pts)|L (1pt)|Runs|
 |---|---|---|---|---|---|---|
-|1|Team 1|0|0|0|0|0|
-|1|Team 1|0|0|0|0|0|
-|1|Team 1|0|0|0|0|0|
-|1|Team 1|0|0|0|0|0|
-|1|Team 1|0|0|0|0|0|
-|1|Team 1|0|0|0|0|0|
+|1|DDSB|0|0|0|0|0|
+|1|DS|0|0|0|0|0|
+|1|FCV2|0|0|0|0|0|
+|1|CA|0|0|0|0|0|
+|1|BNT|0|0|0|0|0|
+|1|SFTB|0|0|0|0|0|
 
 # Stats
 
@@ -61,38 +61,38 @@ If your team is short a player, there are a number of people who have volunteere
 
 |Week|Date|Time|Teams|Field|
 |---|---|---|---|---|
-|1|5/13/2018|6:30 PM|***1*** v ***2*** v ***3***|Bryn Mawr #4|
-||5/13/2018|6:30 PM|***1*** v ***2*** v ***3***)|Bryn Mawr #5|
-|2|5/20/2018|6:30 PM|***1*** v ***2*** v ***3***|Bryn Mawr #4|
-||5/20/2018|6:30 PM|***1*** v ***2*** v ***3***|Bryn Mawr #5|
-|3|5/27/2018|6:30 PM|***1*** v ***2*** v ***3***|Bryn Mawr #4|
-||5/27/2018|6:30 PM|***1*** v ***2*** v ***3***|Bryn Mawr #5|
-|4|6/3/2018|6:30 PM|***1*** v ***2*** v ***3***|Bryn Mawr #4|
-||6/3/2018|6:30 PM|***1*** v ***2*** v ***3***|Bryn Mawr #5|
-|5|6/10/2018|6:30 PM|***1*** v ***2*** v ***3***|Bryn Mawr #4|
-||6/10/2018|6:30 PM|***1*** v ***2*** v ***3***|Bryn Mawr #5|
-|6|6/17/2018|6:30 PM|***1*** v ***2*** v ***3***|Bryn Mawr #4|
-||6/17/2018|6:30 PM|***1*** v ***2*** v ***3***|Bryn Mawr #5|
-|7|6/24/2018|6:30 PM|***1*** v ***2*** v ***3***|Bryn Mawr #4|
-||6/24/2018|6:30 PM|***1*** v ***2*** v ***3***|Bryn Mawr #5|
-|8|7/1/2018|6:30 PM|***1*** v ***2*** v ***3***|Bryn Mawr #4|
-||7/1/2018|6:30 PM|***1*** v ***2*** v ***3***|Bryn Mawr #5
-|9|7/8/2018|6:30 PM|***1*** v ***2*** v ***3***|Bryn Mawr #4|
-||7/8/2018|6:30 PM|***1*** v ***2*** v ***3***|Bryn Mawr #5|
-|10|7/15/2018|6:30 PM|***1*** v ***2*** v ***3***|Bryn Mawr #4|
-||7/15/2018|6:30 PM|***1*** v ***2*** v ***3***|Bryn Mawr #5|
-|P1|7/22/2018|6:30 PM|***1*** v ***2*** v ***3***|Bryn Mawr #4|
-||7/22/2018|6:30 PM|***1*** v ***2*** v ***3***|Bryn Mawr #5|
-|Championship|7/29/2018|6:30 PM|***1*** v ***2*** v ***3***|Bryn Mawr #4|
-|Toilet Bowl|7/29/2018|6:30 PM***1*** v ***2*** v ***3***|Bryn Mawr #5|
+|1|5/20/2019|6:30 PM|***DDSB*** v ***DS*** v ***FCV2***|Bryn Mawr #4|
+||5/20/2019|6:30 PM|***CA*** v ***BNT*** v ***SFTB***|Bryn Mawr #5|
+|2|***TUESDAY***5/28/2019|6:30 PM|***DS*** v ***CA*** v ***DDSB***|Bryn Mawr #4|
+||5/28/2019|6:30 PM|***BNT*** v ***SFTB*** v ***FCV2***|Bryn Mawr #5|
+|3|6/3/2019|6:30 PM|***BNT*** v ***DDSB*** v ***DS***|Bryn Mawr #4|
+||6/3/2019|6:30 PM|***SFTB*** v ***FCV2*** v ***CA***|Bryn Mawr #5|
+|4|6/10/2019|6:30 PM|***DDSB*** v ***DS*** v ***SFTB***|Bryn Mawr #4|
+||6/10/2019|6:30 PM|***FCV2*** v ***CA*** v ***BNT***|Bryn Mawr #5|
+|5|6/17/2019|6:30 PM|***FCV2*** v ***CA*** v ***DDSB***|Bryn Mawr #4|
+||6/17/2019|6:30 PM|***BNT*** v ***SFTB*** v ***DS***|Bryn Mawr #5|
+|6|6/24/2019|6:30 PM|***BNT*** v ***DDSB*** v ***FCV2***|Bryn Mawr #4|
+||6/24/2019|6:30 PM|***SFTB*** v ***DS*** v ***CA***|Bryn Mawr #5|
+|7|7/1/2019|6:30 PM|***DDSB*** v ***FCV2*** v ***SFTB***|Bryn Mawr #4|
+||7/1/2019|6:30 PM|***DS*** v ***CA*** v ***BNT***|Bryn Mawr #5|
+|8|7/8/2019|6:30 PM|***BNT*** v ***DDSB*** v ***CA***|Bryn Mawr #4|
+||7/8/2019|6:30 PM|***SFTB*** v ***DS*** v ***FCV2***|Bryn Mawr #5
+|9|7/15/2019|6:30 PM|***CA*** v ***SFTB*** v ***DDSB***|Bryn Mawr #4|
+||7/15/2019|6:30 PM|***FCV2*** v ***BNT*** v ***DS***|Bryn Mawr #5|
+|10|7/22/2019|6:30 PM|***DDSB*** v ***BNT*** v ***SFTB***|Bryn Mawr #4|
+||7/22/2019|6:30 PM|***DS*** v ***FCV2*** v ***CA***|Bryn Mawr #5|
+|P1|7/29/2019|6:30 PM|***UNKNOWN***|Bryn Mawr #4|
+||7/29/2019|6:30 PM|***UNKNOWN***|Bryn Mawr #5|
+|Championship|8/5/2019|6:30 PM|***UNKNOWN***|Bryn Mawr #4|
+|Toilet Bowl|8/5/2019|6:30 PM|***UNKNOWN***|Bryn Mawr #5|
 
 # Rosters
 
 Below are the team rosters, with the captain's name in ***bold and italics***. Players should be responsible for finding a sub if they cannot make it to a game, but ultimately that responsibility will fall on the captains to ensure they can field a team!
 
-|Team 1|Team 2|Team 3|Team 4|Team 5|Team 6|
+|Danny Devito's Softball Burritos|Dyslexic Speedreeders|foster_children_v2|Charlie's Angels|Bags N Tags|Swinging for the Benches|
 |---|---|---|---|---|---|
-|***Dom Smith***|***Eddie Connelly***|***Alex Foster***|***Mike Wold***|***Haylie Helmold***|***Jordan McGowan***|
+|***Dom Smith***|***Eddie Connolly***|***Alex Foster***|***Mike Wold***|***Haylie Helmold***|***Jordan McGowan***|
 |Molly Servatius|Toshiki Sugatani|Nick Wheeler|Lianne Siegel|Beatrice Kutis|Dan Phyle|
 |Parker Lewis|Caitlin Hasselback|Ryan Huber|Jennifer Czachura|Brady Fish|Adam Knust|
 |Maggie Connell|Kurt Poquette|Clay Beyers|Kelsey Mason|Mason Myers |Brooke Luedke|
