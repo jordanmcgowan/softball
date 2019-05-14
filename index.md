@@ -14,8 +14,8 @@ Below is the schedule for the next few weeks (see below for the full schedule). 
 |---|---|---|---|---|
 |1|5/20/2019|6:30 PM|***DDSB*** v ***DS*** v ***FCV2***|Bryn Mawr #4|
 ||5/20/2019|6:30 PM|***CA*** v ***BNT*** v ***SFTB***|Bryn Mawr #5|
-|2|***TUESDAY***5/28/2019|6:30 PM|***DS*** v ***CA*** v ***DDSB***|Bryn Mawr #4|
-||5/28/2019|6:30 PM|***BNT*** v ***SFTB*** v ***FCV2***|Bryn Mawr #5|
+|2|***TUESDAY*** 5/28/2019|6:30 PM|***DS*** v ***CA*** v ***DDSB***|Bryn Mawr #4|
+||***TUESDAY*** 5/28/2019|6:30 PM|***BNT*** v ***SFTB*** v ***FCV2***|Bryn Mawr #5|
 |3|6/3/2019|6:30 PM|***BNT*** v ***DDSB*** v ***DS***|Bryn Mawr #4|
 ||6/3/2019|6:30 PM|***SFTB*** v ***FCV2*** v ***CA***|Bryn Mawr #5|
 |4|6/10/2019|6:30 PM|***DDSB*** v ***DS*** v ***SFTB***|Bryn Mawr #4|
