@@ -12,33 +12,52 @@ Below is the schedule for the next few weeks (see below for the full schedule). 
 
 |Week|Date|Time|Teams|Field|
 |---|---|---|---|---|
-|1|5/20/2019|6:30 PM|***DDSB*** v ***DS*** v ***FCV2***|Bryn Mawr #4|
-||5/20/2019|6:30 PM|***CA*** v ***BNT*** v ***SFTB***|Bryn Mawr #5|
 |2|***TUESDAY*** 5/28/2019|6:30 PM|***DS*** v ***CA*** v ***DDSB***|Bryn Mawr #4|
 ||***TUESDAY*** 5/28/2019|6:30 PM|***BNT*** v ***SFTB*** v ***FCV2***|Bryn Mawr #5|
 |3|6/3/2019|6:30 PM|***BNT*** v ***DDSB*** v ***DS***|Bryn Mawr #4|
 ||6/3/2019|6:30 PM|***SFTB*** v ***FCV2*** v ***CA***|Bryn Mawr #5|
 |4|6/10/2019|6:30 PM|***DDSB*** v ***DS*** v ***SFTB***|Bryn Mawr #4|
 ||6/10/2019|6:30 PM|***FCV2*** v ***CA*** v ***BNT***|Bryn Mawr #5|
+|5|6/17/2019|6:30 PM|***FCV2*** v ***CA*** v ***DDSB***|Bryn Mawr #4|
+||6/17/2019|6:30 PM|***BNT*** v ***SFTB*** v ***DS***|Bryn Mawr #5|
 
 # Regular Season Standings
 
 |Place|Team Name|Points|W (5pts)|2nd (3pts)|L (1pt)|Runs|
 |---|---|---|---|---|---|---|
-|1|DDSB|0|0|0|0|0|
-|1|DS|0|0|0|0|0|
-|1|FCV2|0|0|0|0|0|
-|1|CA|0|0|0|0|0|
-|1|BNT|0|0|0|0|0|
-|1|SFTB|0|0|0|0|0|
+|1|DS|5|1|0|0|19|
+|2|BNT|5|1|0|0|15|
+|3|DDSB|3|0|1|0|12|
+|4|SFTB|3|0|1|0|10|
+|5|CA|1|0|0|1|4|
+|6|FCV2|1|0|0|1|2|
 
 # Stats
 
 These are the top 20 players, sorted by batting average (min 20AB)! Please contact me for your personal stats, or with any discrepencies
 
-|Name|H|AB|BA|HR|SO|R|CHANGE|
-|---|---|---|---|---|---|---|---|
-|Player 1|0|0|0|0|0|0|0|
+|Name|H|AB|BA|HR|SO|R|
+|---|---|---|---|---|---|---|
+|Rex Raetz|5|5|1.000|1|0|4|
+|Dan Phyle|5|5|1.000|0|0|2|
+|Alex Glowacki|8|10|0.800|0|0|7|
+|Andrew Ray|4|5|0.800|0|0|2|
+|Haylie Helmold|4|5|0.800|0|0|3|
+|Brady Fish|3|4|0.750|1|0|3|
+|Mason Myers |3|4|0.750|0|1|0|
+|Jordan McGowan|3|4|0.750|1|0|2|
+|Brooke Luedke|3|4|0.750|0|0|1|
+|Matthew Romero Moore|3|4|0.750|0|0|2|
+|Mitch Fossen|3|4|0.750|0|0|2|
+|Parker Lewis|4|6|0.667|0|0|2|
+|Tarah Cleveland|2|3|0.667|0|0|1|
+|Miranda Motsinger|2|3|0.667|0|1|0|
+|Nathan Samoy|2|3|0.667|0|0|0|
+|Emeka|2|3|0.667|0|0|1|
+|Bret Percy|6|10|0.600|1|1|4|
+|Zach Somberg|5|10|0.500|0|0|5|
+|Susan Yang|5|10|0.500|0|2|3|
+|Maggie Connell|3|6|0.500|0|0|0|
 
 # Potential Subs
 
