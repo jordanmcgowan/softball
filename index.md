@@ -47,15 +47,12 @@ If your team is short a player, there are a number of people who have volunteere
 |Name|Phone Number|
 |---|---|
 |Lucas Capistrant|763.647.8307|
-|Francis Hertel|651.339.3767|
-|Jordikai Watanabe-Inouye|808.203.4872|
-|Rilee Krier|720.281.3289|
-|Derek Price|619.607.0474|
 |Samantha Stanke|763.567.9140|
 |Wilson Ngai|224.425.9859|
 |Mithul Garg|630.398.0372|
 |Kareem Itani|317.431.9105|
 |Josh Varghese|952.688.1818‬|
+|Kyle Lemmel|317.796.2369|
 
 # Full Schedule
 
