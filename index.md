@@ -48,7 +48,6 @@ These are the top 20 players, sorted by batting average (min 5AB)! Please contac
 |Jordan McGowan|8|11|0.727|3|0|6|
 |Mason Myers |7|10|0.700|0|2|0|
 |Alex Glowacki|13|19|0.684|1|0|9|
-|Toshiki Sugatani|2|3|0.666|0|0|2|
 |Bret Percy|12|18|0.666|1|1|7|
 |Haylie Helmold|7|11|0.636|0|0|5|
 |Nathan Samoy|5|8|0.625|0|0|1|
@@ -58,6 +57,7 @@ These are the top 20 players, sorted by batting average (min 5AB)! Please contac
 |John Russ|3|5|0.600|0|0|1|
 |Cameron Huntington|6|10|0.600|1|0|2|
 |Matthew Romero Moore|7|12|0.583|0|0|3|
+|Andrew Ray|7|12|0.583|0|2|2|
 
 # Potential Subs
 
