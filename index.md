@@ -12,14 +12,14 @@ Below is the schedule for the next few weeks (see below for the full schedule). 
 
 |Week|Date|Time|Teams|Field|
 |---|---|---|---|---|
-|5|6/17/2019|6:30 PM|***FCV2*** v ***CA*** v ***DDSB***|Bryn Mawr #4|
-||6/17/2019|6:30 PM|***BNT*** v ***SFTB*** v ***DS***|Bryn Mawr #5|
+|5|6/17/2019|6:30 PM|***BNT*** v ***SFTB*** v ***DS***|Bryn Mawr #4|
+||6/17/2019|6:30 PM|***FCV2*** v ***CA*** v ***DDSB***|Bryn Mawr #5|
 |6|6/24/2019|6:30 PM|***BNT*** v ***DDSB*** v ***FCV2***|Bryn Mawr #4|
 ||6/24/2019|6:30 PM|***SFTB*** v ***DS*** v ***CA***|Bryn Mawr #5|
-|7|7/1/2019|6:30 PM|***DDSB*** v ***FCV2*** v ***SFTB***|Bryn Mawr #4|
-||7/1/2019|6:30 PM|***DS*** v ***CA*** v ***BNT***|Bryn Mawr #5|
-|8|7/8/2019|6:30 PM|***BNT*** v ***DDSB*** v ***CA***|Bryn Mawr #4|
-||7/8/2019|6:30 PM|***SFTB*** v ***DS*** v ***FCV2***|Bryn Mawr #5
+|7|7/1/2019|6:30 PM|***DS*** v ***CA*** v ***BNT***|Bryn Mawr #4|
+||7/1/2019|6:30 PM|***DDSB*** v ***FCV2*** v ***SFTB***|Bryn Mawr #5|
+|8|7/8/2019|6:30 PM|***SFTB*** v ***DS*** v ***FCV2***|Bryn Mawr #4|
+||7/8/2019|6:30 PM|***BNT*** v ***DDSB*** v ***CA***|Bryn Mawr #5
 
 # Regular Season Standings
 
@@ -87,16 +87,16 @@ If your team is short a player, there are a number of people who have volunteere
 ||6/3/2019|6:30 PM|***SFTB (2nd - 8)*** v ***FCV2 (1st - 16)*** v ***CA (3rd - 6)***|Bryn Mawr #5|
 |4|6/10/2019|6:30 PM|***DDSB (1st - 12)*** v ***DS (2nd - 10)*** v ***SFTB (3rd - 4)***|Bryn Mawr #4|
 ||6/10/2019|6:30 PM|***FCV2 (3rd - 8)*** v ***CA (1st - 11)*** v ***BNT (3rd - 8)***|Bryn Mawr #5|
-|5|6/17/2019|6:30 PM|***FCV2*** v ***CA*** v ***DDSB***|Bryn Mawr #4|
-||6/17/2019|6:30 PM|***BNT*** v ***SFTB*** v ***DS***|Bryn Mawr #5|
+|5|6/17/2019|6:30 PM|***BNT*** v ***SFTB*** v ***DS***|Bryn Mawr #4|
+||6/17/2019|6:30 PM|***FCV2*** v ***CA*** v ***DDSB***|Bryn Mawr #5|
 |6|6/24/2019|6:30 PM|***BNT*** v ***DDSB*** v ***FCV2***|Bryn Mawr #4|
 ||6/24/2019|6:30 PM|***SFTB*** v ***DS*** v ***CA***|Bryn Mawr #5|
-|7|7/1/2019|6:30 PM|***DDSB*** v ***FCV2*** v ***SFTB***|Bryn Mawr #4|
-||7/1/2019|6:30 PM|***DS*** v ***CA*** v ***BNT***|Bryn Mawr #5|
-|8|7/8/2019|6:30 PM|***BNT*** v ***DDSB*** v ***CA***|Bryn Mawr #4|
-||7/8/2019|6:30 PM|***SFTB*** v ***DS*** v ***FCV2***|Bryn Mawr #5
-|9|7/15/2019|6:30 PM|***CA*** v ***SFTB*** v ***DDSB***|Bryn Mawr #4|
-||7/15/2019|6:30 PM|***FCV2*** v ***BNT*** v ***DS***|Bryn Mawr #5|
+|7|7/1/2019|6:30 PM|***DS*** v ***CA*** v ***BNT***|Bryn Mawr #4|
+||7/1/2019|6:30 PM|***DDSB*** v ***FCV2*** v ***SFTB***|Bryn Mawr #5|
+|8|7/8/2019|6:30 PM|***SFTB*** v ***DS*** v ***FCV2***|Bryn Mawr #4|
+||7/8/2019|6:30 PM|***BNT*** v ***DDSB*** v ***CA***|Bryn Mawr #5
+|9|7/15/2019|6:30 PM|***FCV2*** v ***BNT*** v ***DS***|Bryn Mawr #4|
+||7/15/2019|6:30 PM|***CA*** v ***SFTB*** v ***DDSB***|Bryn Mawr #5|
 |10|7/22/2019|6:30 PM|***DDSB*** v ***BNT*** v ***SFTB***|Bryn Mawr #4|
 ||7/22/2019|6:30 PM|***DS*** v ***FCV2*** v ***CA***|Bryn Mawr #5|
 |P1|7/29/2019|6:30 PM|***UNKNOWN***|Bryn Mawr #4|
