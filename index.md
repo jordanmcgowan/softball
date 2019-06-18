@@ -12,25 +12,25 @@ Below is the schedule for the next few weeks (see below for the full schedule). 
 
 |Week|Date|Time|Teams|Field|
 |---|---|---|---|---|
-|5|6/17/2019|6:30 PM|***BNT*** v ***SFTB*** v ***DS***|Bryn Mawr #4|
-||6/17/2019|6:30 PM|***FCV2*** v ***CA*** v ***DDSB***|Bryn Mawr #5|
 |6|6/24/2019|6:30 PM|***BNT*** v ***DDSB*** v ***FCV2***|Bryn Mawr #4|
 ||6/24/2019|6:30 PM|***SFTB*** v ***DS*** v ***CA***|Bryn Mawr #5|
 |7|7/1/2019|6:30 PM|***DS*** v ***CA*** v ***BNT***|Bryn Mawr #4|
 ||7/1/2019|6:30 PM|***DDSB*** v ***FCV2*** v ***SFTB***|Bryn Mawr #5|
 |8|7/8/2019|6:30 PM|***SFTB*** v ***DS*** v ***FCV2***|Bryn Mawr #4|
 ||7/8/2019|6:30 PM|***BNT*** v ***DDSB*** v ***CA***|Bryn Mawr #5
+|9|7/15/2019|6:30 PM|***FCV2*** v ***BNT*** v ***DS***|Bryn Mawr #4|
+||7/15/2019|6:30 PM|***CA*** v ***SFTB*** v ***DDSB***|Bryn Mawr #5|
 
 # Regular Season Standings
 
 |Place|Team Name|Points|W (5pts)|2nd (3pts)|L (1pt)|Runs|
 |---|---|---|---|---|---|---|
-|1|DS|16|2|2|0|39|
-|2|BNT|14|2|1|1|36|
-|3|DDSB|12|1|2|1|31|
-|4|SFTB|10|0|3|1|31|
-|5|FCV2|8|1|0|3|28|
-|6|CA|8|1|0|3|24|
+|1|DS|19|3|1|1|46|
+|1|BNT|19|3|1|1|46|
+|3|FCV2|13|2|0|3|42|
+|4|DDSB|13|0|4|1|40|
+|5|SFTB|13|0|4|1|39|
+|6|CA|9|1|0|4|34|
 
 # Stats
 
@@ -38,27 +38,26 @@ These are the top 20 players, sorted by batting average (min 10AB)! Please conta
 
 |Name|H|AB|BA|HR|SO|R|
 |---|---|---|---|---|---|---|
-|Rex Raetz|15|16|0.938|1|0|9|
-|Dan Phyle|13|16|0.812|1|0|6|
+|Rex Raetz|19|22|0.864|1|0|11|
+|Dan Phyle|15|20|0.750|1|0|8|
 |Corbin Bullock|9|12|0.750|1|0|4|
-|Mitch Fossen|8|11|0.727|0|0|5|
-|Alex Foster|10|14|0.714|0|0|6|
-|Jordan McGowan|10|14|0.714|3|0|6|
-|Kyler Witting|7|10|0.700|0|0|2|
-|Nathan Samoy|8|12|0.667|0|0|3|
-|Trevor Gentner|10|15|0.667|0|0|5|
-|Nick Wheeler|9|14|0.643|0|0|4|
-|Bret Percy|16|25|0.640|1|1|8|
-|Haylie Helmold|7|11|0.636|0|0|5|
-|Adam Knust|7|11|0.636|0|0|3|
-|Rebecca Mozdy|10|16|0.625|0|1|5|
-|Alex Glowacki|16|26|0.615|1|0|12|
-|Parker Lewis|11|18|0.611|0|1|5|
-|Miranda Motsinger|9|15|0.600|0|2|1|
-|Mike Wold|6|10|0.600|1|1|5|
-|Mason Myers |9|15|0.600|0|2|2|
+|Mitch Fossen|10|14|0.714|0|1|5|
+|Alex Foster|14|20|0.700|0|0|9|
+|Patrick Erichson|7|10|0.700|0|0|4|
+|Kyler Witting|9|13|0.692|0|0|3|
+|Miranda Motsinger|14|21|0.667|0|2|5|
+|Trevor Gentner|13|20|0.650|0|0|6|
+|Nick Wheeler|13|20|0.650|0|0|7|
+|Adam Knust|9|14|0.643|0|0|5|
+|Andrew Ray|14|22|0.636|0|5|4|
+|Parker Lewis|15|24|0.625|0|1|7|
+|Bret Percy|18|29|0.621|1|1|8|
+|Alex Glowacki|18|29|0.621|3|0|14|
+|Jordan McGowan|11|18|0.611|3|0|6|
+|Nathan Samoy|11|18|0.611|1|1|5|
+|Rebecca Mozdy|12|20|0.600|0|1|7|
 |John Russ|6|10|0.600|0|0|1|
-|Andrew Ray|10|17|0.588|0|2|4|
+|YA BOI EDBOI|7|12|0.583|0|0|3|
 
 # Potential Subs
 
@@ -89,8 +88,8 @@ If your team is short a player, there are a number of people who have volunteere
 ||6/3/2019|6:30 PM|***SFTB (2nd - 8)*** v ***FCV2 (1st - 16)*** v ***CA (3rd - 6)***|Bryn Mawr #5|
 |4|6/10/2019|6:30 PM|***DDSB (1st - 12)*** v ***DS (2nd - 10)*** v ***SFTB (3rd - 4)***|Bryn Mawr #4|
 ||6/10/2019|6:30 PM|***FCV2 (3rd - 8)*** v ***CA (1st - 11)*** v ***BNT (3rd - 8)***|Bryn Mawr #5|
-|5|6/17/2019|6:30 PM|***BNT*** v ***SFTB*** v ***DS***|Bryn Mawr #4|
-||6/17/2019|6:30 PM|***FCV2*** v ***CA*** v ***DDSB***|Bryn Mawr #5|
+|5|6/17/2019|6:30 PM|***BNT (1st - 12)*** v ***SFTB (2nd - 10)*** v ***DS (3rd - 5)***|Bryn Mawr #4|
+||6/17/2019|6:30 PM|***FCV2 (1st - 14)*** v ***CA (3rd - 10)*** v ***DDSB (2nd - 11)***|Bryn Mawr #5|
 |6|6/24/2019|6:30 PM|***BNT*** v ***DDSB*** v ***FCV2***|Bryn Mawr #4|
 ||6/24/2019|6:30 PM|***SFTB*** v ***DS*** v ***CA***|Bryn Mawr #5|
 |7|7/1/2019|6:30 PM|***DS*** v ***CA*** v ***BNT***|Bryn Mawr #4|
