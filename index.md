@@ -12,52 +12,53 @@ Below is the schedule for the next few weeks (see below for the full schedule). 
 
 |Week|Date|Time|Teams|Field|
 |---|---|---|---|---|
-|4|6/10/2019|6:30 PM|***DDSB*** v ***DS*** v ***SFTB***|Bryn Mawr #4|
-||6/10/2019|6:30 PM|***FCV2*** v ***CA*** v ***BNT***|Bryn Mawr #5|
-|5|6/17/2019|6:30 PM|***FCV2*** v ***CA*** v ***DDSB***|Bryn Mawr #4|
-||6/17/2019|6:30 PM|***BNT*** v ***SFTB*** v ***DS***|Bryn Mawr #5|
+|5|6/17/2019|6:30 PM|***BNT*** v ***SFTB*** v ***DS***|Bryn Mawr #4|
+||6/17/2019|6:30 PM|***FCV2*** v ***CA*** v ***DDSB***|Bryn Mawr #5|
 |6|6/24/2019|6:30 PM|***BNT*** v ***DDSB*** v ***FCV2***|Bryn Mawr #4|
 ||6/24/2019|6:30 PM|***SFTB*** v ***DS*** v ***CA***|Bryn Mawr #5|
-|7|7/1/2019|6:30 PM|***DDSB*** v ***FCV2*** v ***SFTB***|Bryn Mawr #4|
-||7/1/2019|6:30 PM|***DS*** v ***CA*** v ***BNT***|Bryn Mawr #5|
+|7|7/1/2019|6:30 PM|***DS*** v ***CA*** v ***BNT***|Bryn Mawr #4|
+||7/1/2019|6:30 PM|***DDSB*** v ***FCV2*** v ***SFTB***|Bryn Mawr #5|
+|8|7/8/2019|6:30 PM|***SFTB*** v ***DS*** v ***FCV2***|Bryn Mawr #4|
+||7/8/2019|6:30 PM|***BNT*** v ***DDSB*** v ***CA***|Bryn Mawr #5
 
 # Regular Season Standings
 
 |Place|Team Name|Points|W (5pts)|2nd (3pts)|L (1pt)|Runs|
 |---|---|---|---|---|---|---|
-|1|DS|13|2|1|0|29|
-|2|BNT|13|2|1|0|28|
-|3|SFTB|9|0|3|0|27|
-|4|DDSB|7|0|2|1|19|
-|5|FCV2|7|1|0|2|20|
-|6|CA|3|0|0|3|13|
+|1|DS|16|2|2|0|39|
+|2|BNT|14|2|1|1|36|
+|3|DDSB|12|1|2|1|31|
+|4|SFTB|10|0|3|1|31|
+|5|FCV2|8|1|0|3|28|
+|6|CA|8|1|0|3|24|
 
 # Stats
 
-These are the top 20 players, sorted by batting average (min 5AB)! Please contact me for your personal stats, or with any discrepencies
+These are the top 20 players, sorted by batting average (min 10AB)! Please contact me for your personal stats, or with any discrepencies
 
 |Name|H|AB|BA|HR|SO|R|
 |---|---|---|---|---|---|---|
-|Rex Raetz|11|11|1.000|1|0|6|
-|Dan Phyle|11|13|0.846|1|0|5|
-|Ryan Huber|4|5|0.800|0|0|0|
-|Nick Wheeler|8|10|0.800|0|0|3|
-|Alex Foster|8|10|0.800|0|0|5|
+|Rex Raetz|15|16|0.938|1|0|9|
+|Dan Phyle|13|16|0.812|1|0|6|
+|Corbin Bullock|9|12|0.750|1|0|4|
 |Mitch Fossen|8|11|0.727|0|0|5|
-|Miranda Motsinger|8|11|0.727|0|2|1|
-|Jordan McGowan|8|11|0.727|3|0|6|
-|Mason Myers |7|10|0.700|0|2|0|
-|Alex Glowacki|13|19|0.684|1|0|9|
-|Bret Percy|12|18|0.666|1|1|7|
+|Alex Foster|10|14|0.714|0|0|6|
+|Jordan McGowan|10|14|0.714|3|0|6|
+|Kyler Witting|7|10|0.700|0|0|2|
+|Nathan Samoy|8|12|0.667|0|0|3|
+|Trevor Gentner|10|15|0.667|0|0|5|
+|Nick Wheeler|9|14|0.643|0|0|4|
+|Bret Percy|16|25|0.640|1|1|8|
 |Haylie Helmold|7|11|0.636|0|0|5|
-|Nathan Samoy|5|8|0.625|0|0|1|
-|Adam Knust|5|8|0.625|0|0|1|
-|Parker Lewis|8|13|0.615|0|1|3|
-|Trevor Gentner|6|10|0.600|0|0|4|
-|John Russ|3|5|0.600|0|0|1|
-|Cameron Huntington|6|10|0.600|1|0|2|
-|Matthew Romero Moore|7|12|0.583|0|0|3|
-|Andrew Ray|7|12|0.583|0|2|2|
+|Adam Knust|7|11|0.636|0|0|3|
+|Rebecca Mozdy|10|16|0.625|0|1|5|
+|Alex Glowacki|16|26|0.615|1|0|12|
+|Parker Lewis|11|18|0.611|0|1|5|
+|Miranda Motsinger|9|15|0.600|0|2|1|
+|Mike Wold|6|10|0.600|1|1|5|
+|Mason Myers |9|15|0.600|0|2|2|
+|John Russ|6|10|0.600|0|0|1|
+|Andrew Ray|10|17|0.588|0|2|4|
 
 # Potential Subs
 
@@ -84,18 +85,18 @@ If your team is short a player, there are a number of people who have volunteere
 ||5/28/2019|6:30 PM|***BNT (1st - 10)*** v ***SFTB (2nd - 9)*** v ***FCV2 (3rd - 2)***|Bryn Mawr #5|
 |3|6/3/2019|6:30 PM|***BNT (2nd - 3)*** v ***DDSB (3rd - 2)*** v ***DS (1st - 5)***|Bryn Mawr #4|
 ||6/3/2019|6:30 PM|***SFTB (2nd - 8)*** v ***FCV2 (1st - 16)*** v ***CA (3rd - 6)***|Bryn Mawr #5|
-|4|6/10/2019|6:30 PM|***DDSB*** v ***DS*** v ***SFTB***|Bryn Mawr #4|
-||6/10/2019|6:30 PM|***FCV2*** v ***CA*** v ***BNT***|Bryn Mawr #5|
-|5|6/17/2019|6:30 PM|***FCV2*** v ***CA*** v ***DDSB***|Bryn Mawr #4|
-||6/17/2019|6:30 PM|***BNT*** v ***SFTB*** v ***DS***|Bryn Mawr #5|
+|4|6/10/2019|6:30 PM|***DDSB (1st - 12)*** v ***DS (2nd - 10)*** v ***SFTB (3rd - 4)***|Bryn Mawr #4|
+||6/10/2019|6:30 PM|***FCV2 (3rd - 8)*** v ***CA (1st - 11)*** v ***BNT (3rd - 8)***|Bryn Mawr #5|
+|5|6/17/2019|6:30 PM|***BNT*** v ***SFTB*** v ***DS***|Bryn Mawr #4|
+||6/17/2019|6:30 PM|***FCV2*** v ***CA*** v ***DDSB***|Bryn Mawr #5|
 |6|6/24/2019|6:30 PM|***BNT*** v ***DDSB*** v ***FCV2***|Bryn Mawr #4|
 ||6/24/2019|6:30 PM|***SFTB*** v ***DS*** v ***CA***|Bryn Mawr #5|
-|7|7/1/2019|6:30 PM|***DDSB*** v ***FCV2*** v ***SFTB***|Bryn Mawr #4|
-||7/1/2019|6:30 PM|***DS*** v ***CA*** v ***BNT***|Bryn Mawr #5|
-|8|7/8/2019|6:30 PM|***BNT*** v ***DDSB*** v ***CA***|Bryn Mawr #4|
-||7/8/2019|6:30 PM|***SFTB*** v ***DS*** v ***FCV2***|Bryn Mawr #5
-|9|7/15/2019|6:30 PM|***CA*** v ***SFTB*** v ***DDSB***|Bryn Mawr #4|
-||7/15/2019|6:30 PM|***FCV2*** v ***BNT*** v ***DS***|Bryn Mawr #5|
+|7|7/1/2019|6:30 PM|***DS*** v ***CA*** v ***BNT***|Bryn Mawr #4|
+||7/1/2019|6:30 PM|***DDSB*** v ***FCV2*** v ***SFTB***|Bryn Mawr #5|
+|8|7/8/2019|6:30 PM|***SFTB*** v ***DS*** v ***FCV2***|Bryn Mawr #4|
+||7/8/2019|6:30 PM|***BNT*** v ***DDSB*** v ***CA***|Bryn Mawr #5
+|9|7/15/2019|6:30 PM|***FCV2*** v ***BNT*** v ***DS***|Bryn Mawr #4|
+||7/15/2019|6:30 PM|***CA*** v ***SFTB*** v ***DDSB***|Bryn Mawr #5|
 |10|7/22/2019|6:30 PM|***DDSB*** v ***BNT*** v ***SFTB***|Bryn Mawr #4|
 ||7/22/2019|6:30 PM|***DS*** v ***FCV2*** v ***CA***|Bryn Mawr #5|
 |P1|7/29/2019|6:30 PM|***UNKNOWN***|Bryn Mawr #4|
@@ -112,7 +113,7 @@ Below are the team rosters, with the captain's name in ***bold and italics***. P
 |***Dom Smith***|***Eddie Connolly***|***Alex Foster***|***Mike Wold***|***Haylie Helmold***|***Jordan McGowan***|
 |Molly Servatius|Toshiki Sugatani|Nick Wheeler|Lianne Siegel|Beatrice Kutis|Dan Phyle|
 |Parker Lewis|Caitlin Hasselback|Ryan Huber|Jennifer Czachura|Brady Fish|Adam Knust|
-|Maggie Connell|Kurt Poquette|Clay Beyers|Kelsey Mason|Mason Myers |Brooke Luedke|
+|Maggie Connell|Chandler Harvey|Clay Beyers|Kelsey Mason|Mason Myers |Brooke Luedke|
 |Rex Raetz|Alex Glowacki|Tarah Cleveland|Alex Lunderman|Laura May|Steven Lafeir|
 |Matthew Fevold|Zach Somberg|Erin Hanson|Emeka Ezeji-Okoye|John Russ|Darielle Criss McKellar|
 |Andrew Ray|Kyler Witting|Miranda Motsinger|Rebecca Mozdy|Trevor Gentner|Rory Straubel|
