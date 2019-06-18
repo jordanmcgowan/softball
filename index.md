@@ -86,7 +86,7 @@ If your team is short a player, there are a number of people who have volunteere
 ||5/28/2019|6:30 PM|***BNT (1st - 10)*** v ***SFTB (2nd - 9)*** v ***FCV2 (3rd - 2)***|Bryn Mawr #5|
 |3|6/3/2019|6:30 PM|***BNT (2nd - 3)*** v ***DDSB (3rd - 2)*** v ***DS (1st - 5)***|Bryn Mawr #4|
 ||6/3/2019|6:30 PM|***SFTB (2nd - 8)*** v ***FCV2 (1st - 16)*** v ***CA (3rd - 6)***|Bryn Mawr #5|
-|4|6/10/2019|6:30 PM|***DDSB (1st - 12)*** v ***DS (2nd - 10)*** v ***SFTB (3rd - 4)***|Bryn Mawr #4|
+|4|6/10/2019|6:30 PM|***DDSB (2nd - 10)*** v ***DS (1st - 12)*** v ***SFTB (3rd - 4)***|Bryn Mawr #4|
 ||6/10/2019|6:30 PM|***FCV2 (3rd - 8)*** v ***CA (1st - 11)*** v ***BNT (3rd - 8)***|Bryn Mawr #5|
 |5|6/17/2019|6:30 PM|***BNT (1st - 12)*** v ***SFTB (2nd - 10)*** v ***DS (3rd - 5)***|Bryn Mawr #4|
 ||6/17/2019|6:30 PM|***FCV2 (1st - 14)*** v ***CA (3rd - 10)*** v ***DDSB (2nd - 11)***|Bryn Mawr #5|
