@@ -14,8 +14,8 @@ Below is the schedule for the next few weeks (see below for the full schedule). 
 
 |Week|Date|Time|Teams|Field|
 |---|---|---|---|---|
-|6|6/24/2019|6:30 PM|***BNT*** v ***DDSB*** v ***FCV2***|Bryn Mawr #4|
-||6/24/2019|6:30 PM|***SFTB*** v ***DS*** v ***CA***|Bryn Mawr #5|
+|6 ***RESCHEDULED FOR WEDNESDAY***|6/26/2019|6:30 PM|***BNT*** v ***DDSB*** v ***FCV2***|Bryn Mawr #4|
+|***RESCHEDULED FOR WEDNESDAY***|6/26/2019|6:30 PM|***SFTB*** v ***DS*** v ***CA***|Bryn Mawr #5|
 |7|7/1/2019|6:30 PM|***DS*** v ***CA*** v ***BNT***|Bryn Mawr #4|
 ||7/1/2019|6:30 PM|***DDSB*** v ***FCV2*** v ***SFTB***|Bryn Mawr #5|
 |8|7/8/2019|6:30 PM|***SFTB*** v ***DS*** v ***FCV2***|Bryn Mawr #4|
@@ -92,8 +92,8 @@ If your team is short a player, there are a number of people who have volunteere
 ||6/10/2019|6:30 PM|***FCV2 (3rd - 8)*** v ***CA (1st - 11)*** v ***BNT (3rd - 8)***|Bryn Mawr #5|
 |5|6/17/2019|6:30 PM|***BNT (1st - 12)*** v ***SFTB (2nd - 10)*** v ***DS (3rd - 5)***|Bryn Mawr #4|
 ||6/17/2019|6:30 PM|***FCV2 (1st - 14)*** v ***CA (3rd - 10)*** v ***DDSB (2nd - 11)***|Bryn Mawr #5|
-|6|6/24/2019|6:30 PM|***BNT*** v ***DDSB*** v ***FCV2***|Bryn Mawr #4|
-||6/24/2019|6:30 PM|***SFTB*** v ***DS*** v ***CA***|Bryn Mawr #5|
+|6 ***RESCHEDULED FOR WEDNESDAY***|6/26/2019|6:30 PM|***BNT*** v ***DDSB*** v ***FCV2***|Bryn Mawr #4|
+|***RESCHEDULED FOR WEDNESDAY***|6/26/2019|6:30 PM|***SFTB*** v ***DS*** v ***CA***|Bryn Mawr #5|
 |7|7/1/2019|6:30 PM|***DS*** v ***CA*** v ***BNT***|Bryn Mawr #4|
 ||7/1/2019|6:30 PM|***DDSB*** v ***FCV2*** v ***SFTB***|Bryn Mawr #5|
 |8|7/8/2019|6:30 PM|***SFTB*** v ***DS*** v ***FCV2***|Bryn Mawr #4|
