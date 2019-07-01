@@ -27,39 +27,39 @@ Below is the schedule for the next few weeks (see below for the full schedule). 
 
 |Place|Team Name|Points|W (5pts)|2nd (3pts)|L (1pt)|Runs|
 |---|---|---|---|---|---|---|
-|1|DS|19|3|1|1|46|
-|1|BNT|19|3|1|1|46|
-|3|FCV2|13|2|0|3|42|
-|4|DDSB|13|0|4|1|40|
-|5|SFTB|13|0|4|1|39|
-|6|CA|9|1|0|4|34|
+|1|DS|22|3|2|1|52|
+|2|BNT|20|3|1|2|50|
+|3|FCV2|18|3|0|3|61|
+|4|SFTB|18|1|4|1|55|
+|5|DDSB|16|0|5|1|57|
+|6|CA|10|1|0|5|38|
 
 # Stats
 
-These are the top 20 players, sorted by batting average (min 10AB)! Please contact me for your personal stats, or with any discrepencies
+These are the top 20 players, sorted by batting average (min 15AB)! Please contact me for your personal stats, or with any discrepencies
 
 |Name|H|AB|BA|HR|SO|R|
 |---|---|---|---|---|---|---|
 |Rex Raetz|19|22|0.864|1|0|11|
-|Dan Phyle|15|20|0.750|1|0|8|
-|Corbin Bullock|9|12|0.750|1|0|4|
-|Mitch Fossen|10|14|0.714|0|1|5|
-|Alex Foster|14|20|0.700|0|0|9|
-|Patrick Erichson|7|10|0.700|0|0|4|
-|Kyler Witting|9|13|0.692|0|0|3|
-|Miranda Motsinger|14|21|0.667|0|2|5|
-|Trevor Gentner|13|20|0.650|0|0|6|
-|Nick Wheeler|13|20|0.650|0|0|7|
-|Adam Knust|9|14|0.643|0|0|5|
-|Andrew Ray|14|22|0.636|0|5|4|
-|Parker Lewis|15|24|0.625|0|1|7|
-|Bret Percy|18|29|0.621|1|1|8|
-|Alex Glowacki|18|29|0.621|3|0|14|
-|Jordan McGowan|11|18|0.611|3|0|6|
+|Mitch Fossen|16|21|0.762|0|1|7|
+|Adam Knust|16|22|0.727|0|0|8|
+|Andrew Ray|21|29|0.724|0|0|9|
+|Dan Phyle|20|28|0.714|1|0|11|
+|Nick Wheeler|20|28|0.714|0|0|14|
+|Kyler Witting|12|17|0.706|0|0|4|
+|Alex Foster|19|27|0.704|0|0|10|
+|Bret Percy|23|34|0.676|2|1|10|
+|Alex Glowacki|23|34|0.676|3|0|15|
+|Parker Lewis|21|32|0.656|0|1|12|
+|Miranda Motsinger|18|28|0.643|0|3|7|
+|Trevor Gentner|17|27|0.630|0|0|7|
+|Jordan McGowan|16|26|0.615|3|0|10|
 |Nathan Samoy|11|18|0.611|1|1|5|
-|Rebecca Mozdy|12|20|0.600|0|1|7|
-|John Russ|6|10|0.600|0|0|1|
-|YA BOI EDBOI|7|12|0.583|0|0|3|
+|Rebecca Mozdy|15|25|0.600|0|1|8|
+|Brady Fish|16|28|0.571|3|1|8|
+|Clay Beyers|12|21|0.571|0|0|5|
+|Cameron Huntington|13|23|0.565|2|0|5|
+|Haylie Helmold|9|16|0.563|0|0|5|
 
 # Potential Subs
 
@@ -92,8 +92,8 @@ If your team is short a player, there are a number of people who have volunteere
 ||6/10/2019|6:30 PM|***FCV2 (3rd - 8)*** v ***CA (1st - 11)*** v ***BNT (3rd - 8)***|Bryn Mawr #5|
 |5|6/17/2019|6:30 PM|***BNT (1st - 12)*** v ***SFTB (2nd - 10)*** v ***DS (3rd - 5)***|Bryn Mawr #4|
 ||6/17/2019|6:30 PM|***FCV2 (1st - 14)*** v ***CA (3rd - 10)*** v ***DDSB (2nd - 11)***|Bryn Mawr #5|
-|6 ***RESCHEDULED FOR WEDNESDAY***|6/26/2019|6:30 PM|***BNT*** v ***DDSB*** v ***FCV2***|Bryn Mawr #4|
-|***RESCHEDULED FOR WEDNESDAY***|6/26/2019|6:30 PM|***SFTB*** v ***DS*** v ***CA***|Bryn Mawr #5|
+|6 ***RESCHEDULED FOR WEDNESDAY***|6/26/2019|6:30 PM|***BNT (3rd - 4)*** v ***DDSB (2nd - 17) *** v ***FCV2 (1st - 19)***|Bryn Mawr #4|
+|***RESCHEDULED FOR WEDNESDAY***|6/26/2019|6:30 PM|***SFTB (1st - 16)*** v ***DS (2nd - 6)*** v ***CA (3rd - 4)***|Bryn Mawr #5|
 |7|***Rescheduled from 7/1***7/8/2019|6:30 PM|***DS*** v ***CA*** v ***BNT***|Bryn Mawr #4|
 ||***Rescheduled from 7/1***7/8/2019|6:30 PM|***DDSB*** v ***FCV2*** v ***SFTB***|Bryn Mawr #5|
 |8|7/15/2019|6:30 PM|***SFTB*** v ***DS*** v ***FCV2***|Bryn Mawr #4|
