@@ -14,14 +14,14 @@ Below is the schedule for the next few weeks (see below for the full schedule). 
 
 |Week|Date|Time|Teams|Field|
 |---|---|---|---|---|
-|6 ***RESCHEDULED FOR WEDNESDAY***|6/26/2019|6:30 PM|***BNT*** v ***DDSB*** v ***FCV2***|Bryn Mawr #4|
-|***RESCHEDULED FOR WEDNESDAY***|6/26/2019|6:30 PM|***SFTB*** v ***DS*** v ***CA***|Bryn Mawr #5|
-|7|7/1/2019|6:30 PM|***DS*** v ***CA*** v ***BNT***|Bryn Mawr #4|
-||7/1/2019|6:30 PM|***DDSB*** v ***FCV2*** v ***SFTB***|Bryn Mawr #5|
-|8|7/8/2019|6:30 PM|***SFTB*** v ***DS*** v ***FCV2***|Bryn Mawr #4|
-||7/8/2019|6:30 PM|***BNT*** v ***DDSB*** v ***CA***|Bryn Mawr #5
-|9|7/15/2019|6:30 PM|***FCV2*** v ***BNT*** v ***DS***|Bryn Mawr #4|
-||7/15/2019|6:30 PM|***CA*** v ***SFTB*** v ***DDSB***|Bryn Mawr #5|
+|7 ***Rescheduled from 7/1***|7/8/2019|6:30 PM|***DS*** v ***CA*** v ***BNT***|Bryn Mawr #4|
+|***Rescheduled from 7/1***|7/8/2019|6:30 PM|***DDSB*** v ***FCV2*** v ***SFTB***|Bryn Mawr #5|
+|8|7/15/2019|6:30 PM|***SFTB*** v ***DS*** v ***FCV2***|Bryn Mawr #4|
+||7/15/2019|6:30 PM|***BNT*** v ***DDSB*** v ***CA***|Bryn Mawr #5
+|9|7/22/2019|6:30 PM|***FCV2*** v ***BNT*** v ***DS***|Bryn Mawr #4|
+||7/22/2019|6:30 PM|***CA*** v ***SFTB*** v ***DDSB***|Bryn Mawr #5|
+|10|7/29/2019|6:30 PM|***DDSB*** v ***BNT*** v ***SFTB***|Bryn Mawr #4|
+||7/29/2019|6:30 PM|***DS*** v ***FCV2*** v ***CA***|Bryn Mawr #5|
 
 # Regular Season Standings
 
@@ -94,18 +94,18 @@ If your team is short a player, there are a number of people who have volunteere
 ||6/17/2019|6:30 PM|***FCV2 (1st - 14)*** v ***CA (3rd - 10)*** v ***DDSB (2nd - 11)***|Bryn Mawr #5|
 |6 ***RESCHEDULED FOR WEDNESDAY***|6/26/2019|6:30 PM|***BNT*** v ***DDSB*** v ***FCV2***|Bryn Mawr #4|
 |***RESCHEDULED FOR WEDNESDAY***|6/26/2019|6:30 PM|***SFTB*** v ***DS*** v ***CA***|Bryn Mawr #5|
-|7|7/1/2019|6:30 PM|***DS*** v ***CA*** v ***BNT***|Bryn Mawr #4|
-||7/1/2019|6:30 PM|***DDSB*** v ***FCV2*** v ***SFTB***|Bryn Mawr #5|
-|8|7/8/2019|6:30 PM|***SFTB*** v ***DS*** v ***FCV2***|Bryn Mawr #4|
-||7/8/2019|6:30 PM|***BNT*** v ***DDSB*** v ***CA***|Bryn Mawr #5
-|9|7/15/2019|6:30 PM|***FCV2*** v ***BNT*** v ***DS***|Bryn Mawr #4|
-||7/15/2019|6:30 PM|***CA*** v ***SFTB*** v ***DDSB***|Bryn Mawr #5|
-|10|7/22/2019|6:30 PM|***DDSB*** v ***BNT*** v ***SFTB***|Bryn Mawr #4|
-||7/22/2019|6:30 PM|***DS*** v ***FCV2*** v ***CA***|Bryn Mawr #5|
-|P1|7/29/2019|6:30 PM|***UNKNOWN***|Bryn Mawr #4|
-||7/29/2019|6:30 PM|***UNKNOWN***|Bryn Mawr #5|
-|Championship|8/5/2019|6:30 PM|***UNKNOWN***|Bryn Mawr #4|
-|Toilet Bowl|8/5/2019|6:30 PM|***UNKNOWN***|Bryn Mawr #5|
+|7|***Rescheduled from 7/1***7/8/2019|6:30 PM|***DS*** v ***CA*** v ***BNT***|Bryn Mawr #4|
+||***Rescheduled from 7/1***7/8/2019|6:30 PM|***DDSB*** v ***FCV2*** v ***SFTB***|Bryn Mawr #5|
+|8|7/15/2019|6:30 PM|***SFTB*** v ***DS*** v ***FCV2***|Bryn Mawr #4|
+||7/15/2019|6:30 PM|***BNT*** v ***DDSB*** v ***CA***|Bryn Mawr #5
+|9|7/22/2019|6:30 PM|***FCV2*** v ***BNT*** v ***DS***|Bryn Mawr #4|
+||7/22/2019|6:30 PM|***CA*** v ***SFTB*** v ***DDSB***|Bryn Mawr #5|
+|10|7/29/2019|6:30 PM|***DDSB*** v ***BNT*** v ***SFTB***|Bryn Mawr #4|
+||7/29/2019|6:30 PM|***DS*** v ***FCV2*** v ***CA***|Bryn Mawr #5|
+|P1|8/5/2019|6:30 PM|***UNKNOWN***|Bryn Mawr #4|
+||8/5/2019|6:30 PM|***UNKNOWN***|Bryn Mawr #5|
+|Championship|8/12/2019|6:30 PM|***UNKNOWN***|Bryn Mawr #4|
+|Toilet Bowl|8/12/2019|6:30 PM|***UNKNOWN***|Bryn Mawr #5|
 
 # Rosters
 
