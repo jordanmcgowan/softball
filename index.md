@@ -14,25 +14,23 @@ Below is the schedule for the next few weeks (see below for the full schedule). 
 
 |Week|Date|Time|Teams|Field|
 |---|---|---|---|---|
-|8 **Pushed back from 7/15** |7/22/2019|6:30 PM|***SFTB*** v ***DS*** v ***FCV2***|Bryn Mawr #4|
-|**Pushed back from 7/15**|7/22/2019|6:30 PM|***BNT*** v ***DDSB*** v ***CA***|Bryn Mawr #5
-|9|7/29/2019|6:30 PM|***FCV2*** v ***BNT*** v ***DS***|Bryn Mawr #4|
-||7/29/2019|6:30 PM|***CA*** v ***SFTB*** v ***DDSB***|Bryn Mawr #5|
 |10|8/5/2019|6:30 PM|***DDSB*** v ***BNT*** v ***SFTB***|Bryn Mawr #4|
 ||8/5/2019|6:30 PM|***DS*** v ***FCV2*** v ***CA***|Bryn Mawr #5|
 |P1|8/12/2019|6:30 PM|***UNKNOWN***|Bryn Mawr #4|
 ||8/12/2019|6:30 PM|***UNKNOWN***|Bryn Mawr #5|
+|Championship|8/19/2019|6:30 PM|***UNKNOWN***|Bryn Mawr #4|
+|Toilet Bowl|8/19/2019|6:30 PM|***UNKNOWN***|Bryn Mawr #5|
 
 # Regular Season Standings
 
 |Place|Team Name|Points|W (5pts)|2nd (3pts)|L (1pt)|Runs|
 |---|---|---|---|---|---|---|
-|1|DS|27|4|2|1|61|
-|2|SFTB|23|2|4|1|70|
-|3|BNT|23|3|2|2|58|
-|4|FCV2|21|3|1|3|68|
-|5|DDSB|17|0|5|2|60|
-|6|CA|11|1|0|6|40|
+|1|DS|35|5|3|1|83|
+|2|BNT|33|5|2|2|82|
+|3|SFTB|29|3|4|2|93|
+|4|FCV2|25|3|2|4|82|
+|5|DDSB|23|0|7|2|86|
+|6|CA|13|1|0|8|49|
 
 # Stats
 
@@ -40,26 +38,26 @@ These are the top 20 players, sorted by batting average (min 20AB)! Please conta
 
 |Name|H|AB|BA|HR|SO|R|
 |---|---|---|---|---|---|---|
-|Rex Raetz|21|26|0.808|1|0|12|
-|Mitch Fossen|20|25|0.800|0|1|10|
-|Nick Wheeler|20|28|0.714|0|0|14|
-|Alex Foster|19|27|0.704|0|0|10|
-|Andrew Ray|23|33|0.697|0|0|10|
-|Dan Phyle|22|32|0.688|1|0|13|
-|Jordan McGowan|21|31|0.677|3|0|12|
-|Bret Percy|23|34|0.676|2|1|10|
-|Alex Glowacki|27|40|0.675|3|0|17|
-|Parker Lewis|21|32|0.656|0|1|12|
-|Miranda Motsinger|18|28|0.643|0|3|7|
-|Adam Knust|17|27|0.630|0|2|8|
-|Nathan Samoy|16|26|0.615|1|1|8|
-|Trevor Gentner|19|31|0.612|0|0|8|
-|Rebecca Mozdy|18|30|0.600|0|2|8|
-|Kyler Witting|14|24|0.583|0|0|4|
-|Brady Fish|19|33|0.576|3|1|10|
-|Clay Beyers|12|21|0.571|0|0|5|
-|Mason Myers |18|32|0.562|0|4|7|
-|Ryan Huber|13|24|0.542|0|0|4|
+|Rex Raetz|30|37|0.811|2|0|18|
+|Mitch Fossen|26|34|0.765|0|1|15|
+|Andrew Ray|33|44|0.750|2|0|14|
+|Dan Phyle|33|45|0.733|2|0|21|
+|Bret Percy|32|45|0.711|5|1|15|
+|Jordan McGowan|31|44|0.705|3|1|16|
+|Corbin Bullock|19|27|0.704|1|1|9|
+|Nick Wheeler|23|33|0.697|0|0|14|
+|Parker Lewis|26|38|0.684|2|1|15|
+|Nathan Samoy|21|31|0.677|2|1|9|
+|Steven Lafeir|20|30|0.667|0|1|12|
+|YA BOI EDBOI|15|23|0.652|0|1|7|
+|Miranda Motsinger|21|33|0.636|0|4|9|
+|Rebecca Mozdy|21|33|0.636|0|2|8|
+|Alex Glowacki|33|52|0.635|4|0|22|
+|Alex Foster|23|37|0.622|0|0|13|
+|Trevor Gentner|21|34|0.618|0|0|9|
+|Brady Fish|26|43|0.605|3|1|15|
+|Adam Knust|18|30|0.600|0|2|8|
+|Mason Myers |25|42|0.595|0|5|12|
 
 # Potential Subs
 
@@ -96,10 +94,10 @@ If your team is short a player, there are a number of people who have volunteere
 |***RESCHEDULED FOR WEDNESDAY***|6/26/2019|6:30 PM|***SFTB (1st - 16)*** v ***DS (2nd - 6)*** v ***CA (3rd - 4)***|Bryn Mawr #5|
 |7|***Rescheduled from 7/1***7/8/2019|6:30 PM|***DS (1st - 9)*** v ***CA (3rd - 2)*** v ***BNT (2nd - 8)***|Bryn Mawr #4|
 ||***Rescheduled from 7/1***7/8/2019|6:30 PM|***DDSB (3rd - 3)*** v ***FCV2 (2nd - 7)*** v ***SFTB (1st - 15)***|Bryn Mawr #5|
-|8|7/22/2019|6:30 PM|***SFTB*** v ***DS*** v ***FCV2***|Bryn Mawr #4|
-||7/22/2019|6:30 PM|***BNT*** v ***DDSB*** v ***CA***|Bryn Mawr #5
-|9|7/29/2019|6:30 PM|***FCV2*** v ***BNT*** v ***DS***|Bryn Mawr #4|
-||7/29/2019|6:30 PM|***CA*** v ***SFTB*** v ***DDSB***|Bryn Mawr #5|
+|8|7/22/2019|6:30 PM|***SFTB (3rd - 2)*** v ***DS (1st - 13)*** v ***FCV2 (2nd - 11)***|Bryn Mawr #4|
+||7/22/2019|6:30 PM|***BNT (1st - 11)*** v ***DDSB (2nd - 8)*** v ***CA (3rd - 5)***|Bryn Mawr #5
+|9|7/29/2019|6:30 PM|***FCV2 (3rd - 3)*** v ***BNT (1st - 13)*** v ***DS (2nd - 9)***|Bryn Mawr #4|
+||7/29/2019|6:30 PM|***CA (3rd - 4)*** v ***SFTB (1st - 21)*** v ***DDSB (2nd - 18)***|Bryn Mawr #5|
 |10|8/5/2019|6:30 PM|***DDSB*** v ***BNT*** v ***SFTB***|Bryn Mawr #4|
 ||8/5/2019|6:30 PM|***DS*** v ***FCV2*** v ***CA***|Bryn Mawr #5|
 |P1|8/12/2019|6:30 PM|***UNKNOWN***|Bryn Mawr #4|
