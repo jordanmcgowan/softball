@@ -12,12 +12,15 @@ For ties, the two teams that tied will both be awarded the points of the lower p
 
 Below is the schedule for the next few weeks (see below for the full schedule). Games will be every Monday at 6:30 Bryn Mawr #4 and #5 (*Field subject to change based on availability*).
 
+***The final standings (see below) determined the matchups for P1***
+Seed 6 v Seed 4 v Seed 1 -> CA v DDSB v DS
+Seed 5 v Seed 3 v Seed 2 -> FCV2 v BNT v SFTB
+Winners **automatically** advance to the championship as well as the **2nd place team with more runs in their game**
+
 |Week|Date|Time|Teams|Field|
 |---|---|---|---|---|
-|10|8/5/2019|6:30 PM|***DDSB*** v ***BNT*** v ***SFTB***|Bryn Mawr #4|
-||8/5/2019|6:30 PM|***DS*** v ***FCV2*** v ***CA***|Bryn Mawr #5|
-|P1|8/12/2019|6:30 PM|***UNKNOWN***|Bryn Mawr #4|
-||8/12/2019|6:30 PM|***UNKNOWN***|Bryn Mawr #5|
+|P1|8/12/2019|6:30 PM|***FCV2*** v ***BNT*** v ***SFTB***|Bryn Mawr #4|
+||8/12/2019|6:30 PM|***CA*** v ***DDSB*** v ***DS***|Bryn Mawr #5|
 |Championship|8/19/2019|6:30 PM|***UNKNOWN***|Bryn Mawr #4|
 |Toilet Bowl|8/19/2019|6:30 PM|***UNKNOWN***|Bryn Mawr #5|
 
@@ -25,12 +28,12 @@ Below is the schedule for the next few weeks (see below for the full schedule). 
 
 |Place|Team Name|Points|W (5pts)|2nd (3pts)|L (1pt)|Runs|
 |---|---|---|---|---|---|---|
-|1|DS|35|5|3|1|83|
-|2|BNT|33|5|2|2|82|
-|3|SFTB|29|3|4|2|93|
-|4|FCV2|25|3|2|4|82|
-|5|DDSB|23|0|7|2|86|
-|6|CA|13|1|0|8|49|
+|1|DS|40|6|3|1|92|
+|2|SFTB|34|4|4|2|113|
+|3|BNT|34|5|2|3|99|
+|4|DDSB|26|0|8|2|105|
+|5|FCV2|25|3|2|4|82|
+|6|CA|16|1|1|8|55|
 
 # Stats
 
@@ -39,25 +42,25 @@ These are the top 20 players, sorted by batting average (min 20AB)! Please conta
 |Name|H|AB|BA|HR|SO|R|
 |---|---|---|---|---|---|---|
 |Rex Raetz|30|37|0.811|2|0|18|
-|Mitch Fossen|26|34|0.765|0|1|15|
-|Andrew Ray|33|44|0.750|2|0|14|
-|Dan Phyle|33|45|0.733|2|0|21|
-|Bret Percy|32|45|0.711|5|1|15|
-|Jordan McGowan|31|44|0.705|3|1|16|
-|Corbin Bullock|19|27|0.704|1|1|9|
-|Nick Wheeler|23|33|0.697|0|0|14|
-|Parker Lewis|26|38|0.684|2|1|15|
+|Patrick Erichson|20|25|0.800|0|1|9|
+|Mitch Fossen|32|40|0.800|0|1|21|
+|Dan Phyle|40|52|0.769|2|0|25|
+|Andrew Ray|41|54|0.759|4|0|21|
+|Corbin Bullock|24|33|0.727|1|1|12|
+|Steven Lafeir|26|36|0.722|0|1|15|
+|Jordan McGowan|36|50|0.720|5|1|19|
+|Parker Lewis|31|44|0.705|4|1|18|
+|YA BOI EDBOI|20|29|0.690|0|1|9|
 |Nathan Samoy|21|31|0.677|2|1|9|
-|Steven Lafeir|20|30|0.667|0|1|12|
-|YA BOI EDBOI|15|23|0.652|0|1|7|
-|Miranda Motsinger|21|33|0.636|0|4|9|
+|Nick Wheeler|27|40|0.675|0|0|15|
+|Bret Percy|34|51|0.667|6|1|16|
 |Rebecca Mozdy|21|33|0.636|0|2|8|
-|Alex Glowacki|33|52|0.635|4|0|22|
-|Alex Foster|23|37|0.622|0|0|13|
-|Trevor Gentner|21|34|0.618|0|0|9|
+|Alex Foster|28|44|0.636|0|0|15|
+|Trevor Gentner|26|41|0.634|0|0|13|
+|Mason Myers |31|49|0.633|0|5|16|
+|Alex Glowacki|35|57|0.614|5|0|24|
 |Brady Fish|26|43|0.605|3|1|15|
 |Adam Knust|18|30|0.600|0|2|8|
-|Mason Myers |25|42|0.595|0|5|12|
 
 # Potential Subs
 
@@ -98,10 +101,10 @@ If your team is short a player, there are a number of people who have volunteere
 ||7/22/2019|6:30 PM|***BNT (1st - 11)*** v ***DDSB (2nd - 8)*** v ***CA (3rd - 5)***|Bryn Mawr #5
 |9|7/29/2019|6:30 PM|***FCV2 (3rd - 3)*** v ***BNT (1st - 13)*** v ***DS (2nd - 9)***|Bryn Mawr #4|
 ||7/29/2019|6:30 PM|***CA (3rd - 4)*** v ***SFTB (1st - 21)*** v ***DDSB (2nd - 18)***|Bryn Mawr #5|
-|10|8/5/2019|6:30 PM|***DDSB*** v ***BNT*** v ***SFTB***|Bryn Mawr #4|
-||8/5/2019|6:30 PM|***DS*** v ***FCV2*** v ***CA***|Bryn Mawr #5|
-|P1|8/12/2019|6:30 PM|***UNKNOWN***|Bryn Mawr #4|
-||8/12/2019|6:30 PM|***UNKNOWN***|Bryn Mawr #5|
+|10|8/5/2019|6:30 PM|***DDSB (2nd - 19)*** v ***BNT (3rd - 17)*** v ***SFTB (1st - 20)***|Bryn Mawr #4|
+||8/5/2019|6:30 PM|***DS (1st - 9)*** v ***FCV2 (3rd - 3)*** v ***CA (2nd - 6)***|Bryn Mawr #5|
+|P1|8/12/2019|6:30 PM|***FCV2*** v ***BNT*** v ***SFTB***|Bryn Mawr #4|
+||8/12/2019|6:30 PM|***CA*** v ***DDSB*** v ***DS***|Bryn Mawr #5|
 |Championship|8/19/2019|6:30 PM|***UNKNOWN***|Bryn Mawr #4|
 |Toilet Bowl|8/19/2019|6:30 PM|***UNKNOWN***|Bryn Mawr #5|
 
