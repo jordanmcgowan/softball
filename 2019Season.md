@@ -69,7 +69,6 @@ If your team is short a player, there are a number of people who have volunteere
 |Name|Phone Number|
 |---|---|
 |Lucas Capistrant|763.647.8307|
-|Samantha Stanke|763.567.9140|
 |Wilson Ngai|224.425.9859|
 |Mithul Garg|630.398.0372|
 |Kareem Itani|317.431.9105|
