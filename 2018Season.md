@@ -71,7 +71,6 @@ If your team is short a player, there are a number of people who have volunteere
 |Derek Price|619.607.0474|
 |Trevor Gentner|630.965.7851|
 |Brooke Luedke|763.377.2702|
-|Samantha Stanke|763.567.9140|
 
 # Full Schedule
 
